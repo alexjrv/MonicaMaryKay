@@ -1,0 +1,40 @@
+<div class="about-block-content">
+  <div class="border-add"></div>
+  <h4>About Us</h4>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati beatae quam voluptatibus deleniti ipsa
+    consequatur!</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+  <p> </p>
+</div>
+<div class="content_top">
+  <h3 class="m_1">Nuestros productos</h3>
+  <div class="container">
+    <div class="box_1">
+      <div class="col-md-12 text-center">
+        <input type="text" [(ngModel)]="term" placeholder="Ingrese el nombre o tipo de producto" style="width: 55%; margin-bottom: 15px;">
+        <div class="section group">
+
+          <div *ngFor="let item of listaProductos |filter:term " class="col_1_of_3 simpleCart_shelfItem " style="margin-bottom:20px;width:260px">
+            <div class="shop-holder">
+              <div class="product-img">
+                <a (click)="verProducto(item.id)">
+                  <img src="assets/images/pic1.jpg" class="img-product" alt="item4" style="width:100%; background-color:white !important"> </a>
+                <a [href]="item.link" class="button item_add"></a>
+              </div>
+            </div>
+            <div class="shop-content" style="height: 80px;padding-bottom: 10px !important;">
+              <div><a rel="tag">{{item.type}}</a></div>
+              <h3 ><a>{{item.name}}</a></h3>
+              <!-- <span class="amount item_price">{{item.price}}</span> -->
+            </div>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</div>
+<div class="content_bottom">
+</div>
