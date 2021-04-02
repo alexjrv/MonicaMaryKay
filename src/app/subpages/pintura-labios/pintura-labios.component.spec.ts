@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { GalleryComponent } from './gallery.component';
+import { PinturaLabiosComponent } from './pintura-labios.component';
 
-describe('GalleryComponent', () => {
-  let component: GalleryComponent;
-  let fixture: ComponentFixture<GalleryComponent>;
+describe('PinturaLabiosComponent', () => {
+  let component: PinturaLabiosComponent;
+  let fixture: ComponentFixture<PinturaLabiosComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ GalleryComponent ]
+      declarations: [ PinturaLabiosComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(GalleryComponent);
+    fixture = TestBed.createComponent(PinturaLabiosComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
