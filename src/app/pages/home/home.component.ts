@@ -56,4 +56,5 @@ buscar(termino:string){
  this.resultados = this.infoService.buscarProductos(termino);
   this.loading = true;
 }
+
 }

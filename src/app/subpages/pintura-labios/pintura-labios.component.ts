@@ -19,7 +19,7 @@ export class PinturaLabiosComponent implements OnInit {
   tableSizes = [3, 6, 9, 12];
   currentIndex:any
   active = 1;
-  searching = false;
+  loading = false;
   constructor(private infoService:InfoService,
               private router:Router) { }
 
@@ -39,6 +39,8 @@ export class PinturaLabiosComponent implements OnInit {
     this.router.navigate(['/producto-detalle', id]);
   }
   getAllPinturaLabios(){
+    this.loading = false;
     this.resultados = this.infoService.getPinturaLabios();
+    this.loading = true;
   }
 }

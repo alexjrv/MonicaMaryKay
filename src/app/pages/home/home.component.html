@@ -19,7 +19,12 @@
 
           <div class="section group rounded-right-lg"> <button (click)="buscar(term.value)">BUSCAR</button></div>
         </div>
-        <div *ngIf="!loading"><i class="fab fa-facebook-f fa-spin" style="font-size: 60px;"></i></div>
+        <div class="loading text-center" *ngIf="loading">
+          <div><i class="fas fa-spinner fa-spin" style="font-size: 60px;"></i></div>
+        <div style="color: black;">
+          Aguarde por favor
+        </div>
+        </div>
         <div *ngFor="let item of resultados | paginate : {
             itemsPerPage: tableSize,
             currentPage: page,

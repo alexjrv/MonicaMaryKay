@@ -19,7 +19,7 @@ export class CremasComponent implements OnInit {
   tableSizes = [3, 6, 9, 12];
   currentIndex:any
   active = 1;
-  searching = false;
+  loading = false;
   constructor(private infoService:InfoService,
               private router:Router) { }
 
@@ -39,6 +39,8 @@ export class CremasComponent implements OnInit {
     this.router.navigate(['/producto-detalle', id]);
   }
   getAllCremas(){
+    this.loading = false;
     this.resultados = this.infoService.getCremas();
+    this.loading = true;
   }
 }
