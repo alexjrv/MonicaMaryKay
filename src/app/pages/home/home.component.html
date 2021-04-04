@@ -19,7 +19,7 @@
 
           <div class="section group rounded-right-lg"> <button (click)="buscar(term.value)">BUSCAR</button></div>
         </div>
-        <div class="loading text-center" *ngIf="loading">
+        <div class="loading text-center" *ngIf="!loading">
           <div><i class="fas fa-spinner fa-spin" style="font-size: 60px;"></i></div>
         <div style="color: black;">
           Aguarde por favor
@@ -62,3 +62,4 @@
 </div>
 <div class="content_bottom">
 </div>
+
