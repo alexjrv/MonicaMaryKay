@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "monicamarykay-b5266": {
+      "hosting": {
+        "angularApp": [
+          "monicamarykay-b5266"
+        ]
+      }
+    }
+  }
+}
