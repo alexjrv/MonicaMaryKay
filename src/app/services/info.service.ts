@@ -179,68 +179,225 @@ export class InfoService {
     {
       id: 13,
       uso: "Cara",
-      name: "Pinta labios Rouge prueba 14",
-      type: "Pinta labios",
+      name: "Gel Facial Efecto Peeling TimeWise Repair®",
+      type: "Gel",
       price: 1000,
       link: "https://www.facebook.com/",
-      description: "Prueba pintalabios",
-      aplicacion: "se aplica sobre los labios",
-      beneficios: "Labios mas rojos (?",
-      image: "http://c.files.bbci.co.uk/48DD/production/_107435681_perro1.jpg"
+      description: "",
+      aplicacion: "Limpiar profundamente y secar la piel. Aplicar una capa fina del Gel Facial Efecto Peeling TimeWise Repair® en el rostro, evitando el área de los ojos, y masajea suavemente la piel. Después de 10 minutos, enjuaga bien con agua tibia y seca con palmaditas. Aplicalo dos veces por semana en la noche, después de lavarte el rostro y antes de aplicar cualquier suero o humectante, y deja que pasen tres días entre cada aplicación. El Gel Facial Efecto Peeling TimeWise Repair® está formulado para usarlo durante 10 minutos y continúes con los próximos pasos de tu Rutina del Cuidado de la Piel. No se debe dejar puesto toda la noche.",
+      beneficios: "Gracias al poder del Ácido Glicólico, el proceso de renovación de la piel se mejora a medida que una piel de aspecto más radiante y juvenil se revela. El Ácido Glicólico que contiene el Gel Facial Efecto Peeling TimeWise Repair® funciona de inmediato para eliminar las células muertas de la capa más superficial de la piel. También impacta a las demás capas de la superficie, rompiendo los lazos que mantienen unidos a otros miles de células muertas que opacan la piel para que estas se desprendan de ella. La luminosidad de la piel se revela, la tersura mejora considerablemente, las líneas finas y arrugas lucen reducidas y la piel cobra un aspecto rejuvenecido y revitalizado con un tono más uniforme. Esta fórmula no solo es efectiva sino también lo suficientemente suave para usarse dos veces por semana. Esto se debe a que el Ácido Glicólico es combinado con una mezcla exclusiva de extractos botánicos calmantes, incluido un extracto marino que ha mostrado ayudar a brindar hidratación esencial.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/repair/producto7.jpg"
     }
     ,
     {
       id: 14,
       uso: "Cara",
-      name: "Crema prueba 15",
+      name: "Loción Facial Efecto Reafimante TimeWise Repair® Volu-Firm",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
-      description: "La línea TimeWise Repair™ Volu-Firm™ es un régimen del Cuidado de la Piel científicamente innovador que combina la investigación extensa, ingredientes innovadores y pruebas amplias para entregar los beneficios pensados para contrarrestar las señales avanzadas del envejecimiento de la piel.Reactiva la apariencia juvenil con retinol.",
-      aplicacion: "Aplicar con los dedos en el rostro y cuello con generosos movimientos ascendentes y hacia afuera.",
-      beneficios: "La piel recobra su firmeza y se restaura un tono de piel uniforme.Inmediatamente duplica la hidratación de la piel y aumenta la humectación de la piel hasta por 12 horas.El Complejo Volu-Firm contiene las células madre de plantas y péptidos especializados que ayudan a proporcionar el catalizador para la renovación de la piel.Da una tersura visible a la piel del área del cuello.Ayuda a acelerar la renovación celular para revelar una piel de apariencia radiante.",
-      image: "assets/images/TimeWiseRepairVoluFirm.JPG"
+      description: "La Loción Facial Efecto Reafimante TimeWise Repair® Volu-Firm® contiene el mismo Complejo Volu-Firm® que se encuentra en la Rutina de Cuidado de la Piel de todos los productos TimeWise® Repair. Además, tiene dos nuevas generaciones de ingredientes con elementos enfocados en mantener el aspecto joven, la firmeza, elasticidad y el volumen de la piel. El innovador envase incluye una función de bloqueo giratorio y dosificador al vacío, ¡para asegurar que obtengas hasta la última gota de este poderoso suero! También tiene una ventana en el envase para que sepas cuándo es tiempo de renovar el producto.",
+      aplicacion: "MAÑANA: -1 Espuma Limpiadora Facial TimeWise Repair® Volu-Firm®. -2  Loción Facial Efecto Reafimante TimeWise Repair® Volu-Firm® -3 Crema de Día Timewise Repair® Volu-Firm® con FPS 30 (SIN PROTECCION ALTA) -4 Crema de Acción Renovadora de Ojos TimeWise Repair® Volu-Firm®. NOCHE: -1 Espuma Limpiadora Facial TimeWise Repair® Volu-Firm® -2 Loción Facial Efecto Reafimante TimeWise Repair® Volu-Firm® -3 Tratamiento de Noche con Retinol TimeWise Repair® Volu-Firm® -4 Crema de Noche con Retinol TimeWise Repair® Volu-Firm®. (CREMA NO TRATAMIENTO)",
+      beneficios: "Mediante el uso de múltiples métodos de pruebas, incluyendo imagen facial 3D de vanguardia, probamos la Loción Facial Efecto Reafimante TimeWise Repair® Volu-Firm®desde cada ángulo para mostrar cómo ayuda a recuperar tu triángulo de la juventud. Los resultados hablan por sí mismos; estos impresionantes números reflejan el porcentaje de panelistas que mostraron mejoría:Mostró una mejora en la piel de las mejillas y la mandíbula* 100%. La piel luce visiblemente más radiante: 98%. Mostró una mejoría en la firmeza de la piel: 82%. Mostró una reducción visible en las líneas profundas y arrugas: 98%. Mostró una mejoría en la elasticidad de la piel: 78%. Mostró un incremento en la humectación de la piel: 100%. *Según un estudio clínico independiente de 12 semanas en el cual 45 mujeres usaron el suero dos veces al día. Los porcentajes reflejan la cantidad de mujeres que mostraron mejoría. *Según pruebas bio-instrumentales. El número refleja el porcentaje de panelistas que mostraron mejoría.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/repair/producto8.jpg"
     }
     ,
     {
       id: 15,
-      uso: "Cara",
-      name: "Pinta labios Rouge prueba 16",
-      type: "Pinta labios",
+      uso: "Cara y cuello",
+      name: "Gel Limpiador Mary Kay® Botanical Effects®",
+      type: "Gel",
       price: 1000,
       link: "https://www.facebook.com/",
-      description: "Prueba pintalabios",
-      aplicacion: "se aplica sobre los labios",
-      beneficios: "Labios mas rojos (?",
-      image: "http://c.files.bbci.co.uk/48DD/production/_107435681_perro1.jpg"
+      description: "La línea del Cuidado de la Piel Botanical Effects® es el primer paso para conseguir una piel radiante y nutrida. - Ingredientes que proporcionan beneficios esenciales. Extractos de Pitaya se unen al Aloe Vera, famosa desde hace siglos, aportando antioxidantes a cada uno de los productos. - Un cuidado de la piel simple y fácil de utilizar, que no frenará tu estilo de vida. - Resultados increíbles.",
+      aplicacion: "Limpiar el rostro diariamente con el Gel Limpiador Botanical Effects® por las mañanas y las noches. Aplicarlo en el cuello y en el rostro con movimientos ascendentes. Enjuagar bien.",
+      beneficios: "Contiene ingredientes de origen natural derivados del coco para limpiar la piel.Limpia en profundidad y de forma efectiva, y además elimina restos de grasitud.No deja sensación de tirantez. Deja la piel suave, nutrida y limpia.Contiene una cantidad mínima de ácido salicílico que se ha mezclado con otros ingredientes para ayudar a preservar el producto. El Gel Limpiador no se ha formulado con ácido salicílico para ayudar a prevenir o reducir brotes de acné.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/botanical/producto1.jpg"
     }
     ,
     {
       id: 16,
       uso: "Cara",
-      name: "Crema prueba 17",
+      name: "Mascarilla Exfoliante Mary Kay Botanical Effects",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
-      description: "La línea TimeWise Repair™ Volu-Firm™ es un régimen del Cuidado de la Piel científicamente innovador que combina la investigación extensa, ingredientes innovadores y pruebas amplias para entregar los beneficios pensados para contrarrestar las señales avanzadas del envejecimiento de la piel.Reactiva la apariencia juvenil con retinol.",
-      aplicacion: "Aplicar con los dedos en el rostro y cuello con generosos movimientos ascendentes y hacia afuera.",
-      beneficios: "La piel recobra su firmeza y se restaura un tono de piel uniforme.Inmediatamente duplica la hidratación de la piel y aumenta la humectación de la piel hasta por 12 horas.El Complejo Volu-Firm contiene las células madre de plantas y péptidos especializados que ayudan a proporcionar el catalizador para la renovación de la piel.Da una tersura visible a la piel del área del cuello.Ayuda a acelerar la renovación celular para revelar una piel de apariencia radiante.",
-      image: "assets/images/TimeWiseRepairVoluFirm.JPG"
+      description: "La línea del Cuidado de la Piel Botanical Effects® es el primer paso para conseguir una piel radiante y nutrida. - Ingredientes que proporcionan beneficios esenciales. Extractos de Pitaya se unen al Aloe Vera, famosa desde hace siglos, aportando antioxidantes a cada uno de los productos. - Un cuidado de la piel simple y fácil de utilizar, que no frenará tu estilo de vida. - Resultados increíbles. ",
+      aplicacion: "Exfoliar el rostro con la Mascarilla Exfoliante Botanical Effects®. Aplicar y masajear suavemente en el rostro con movimientos circulares, evitando el área alrededor de los ojos. Enjuagar bien. Se recomienda hacerlo 2 ó 3 veces por semana, de preferencia por las noches.",
+      beneficios: "La Mascarilla Exfoliante elimina las células muertas y acaba con la piel apagada, limpiando los poros en profundidad.Formulado con semillas de frutas naturales que ayudan a desobstruir los poros.Contiene ingredientes naturales derivados del coco y la manzana. (*)El exfoliante despierta las pieles cansadas y aporta luminosidad a tu rostro",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/botanical/producto2.jpg"
     }
     ,
     {
       id: 17,
-      uso: "Pies",
-      name: "Pinta labios Rouge prueba 18",
-      type: "Pintalabios",
+      uso: "Cara",
+      name: "Tónico Facial Refrescante Mary Kay Botanical Effects",
+      type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
-      description: "Prueba pintalabios",
-      aplicacion: "se aplica sobre los labios",
-      beneficios: "Labios mas rojos (?",
+      description: "La línea del Cuidado de la Piel Botanical Effects® es el primer paso para conseguir una piel radiante y nutrida. - Ingredientes que proporcionan beneficios esenciales. Extractos de Pitaya se unen al Aloe Vera, famosa desde hace siglos, aportando antioxidantes a cada uno de los productos. - Un cuidado de la piel simple y fácil de utilizar, que no frenará tu estilo de vida. - Resultados increíbles. ",
+      aplicacion: "Después de limpiar, aplicar una pequeña cantidad del Tónico Facial Refrescante Botanical Effects® en un algodón y aplicarlo en el rostro y cuello, evitando el área de los ojos.",
+      beneficios: "El Tónico Facial Refrescante disminuye la apariencia de los poros mientras elimina el exceso de grasitud.Elimina restos de impurezas – como pueden ser células muertas – para una limpieza completa.Contiene extracto de hamamelis, utilizado tradicionalmente como astringente.Ayuda a controlar el brillo, dejando la piel con un aspecto saludable y una sensación refrescante.",
       image: "http://c.files.bbci.co.uk/48DD/production/_107435681_perro1.jpg"
     }
     ,
+    {
+      id: 18,
+      uso: "Cara",
+      name: "Gel Humectante Mary Kay Botanical Effects",
+      type: "Gel",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La línea del Cuidado de la Piel Botanical Effects® es el primer paso para conseguir una piel radiante y nutrida. - Ingredientes que proporcionan beneficios esenciales. Extractos de Pitaya se unen al Aloe Vera, famosa desde hace siglos, aportando antioxidantes a cada uno de los productos. - Un cuidado de la piel simple y fácil de utilizar, que no frenará tu estilo de vida. - Resultados increíbles. ",
+      aplicacion: "Humectar la piel con el Gel Humectante Botanical Effects®, aplicarlo en el rostro y cuello con movimientos ascendentes, con los dedos anular y medio.",
+      beneficios: "Este Gel Humectante de rápida absorción proporciona una humectación óptima para todo tipo de pieles, dejando una apariencia saludable.Esta fórmula ligera no deja una sensación de grasitud ni residuos, y además humecta durante 12 horas.La piel se siente suave, fresca y sin sensación de sequedad.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/botanical/producto4.jpg"
+    }
+    ,
+    {
+      id: 19,
+      uso: "Cara",
+      name: "Loción Humectante Facial FPS 30 Mary Kay Botanical Effects",
+      type: "Loción/Locion",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La línea del Cuidado de la Piel Botanical Effects® es el primer paso para conseguir una piel radiante y nutrida. - Ingredientes que proporcionan beneficios esenciales. Extractos de Pitaya se unen al Aloe Vera, famosa desde hace siglos, aportando antioxidantes a cada uno de los productos. - Un cuidado de la piel simple y fácil de utilizar, que no frenará tu estilo de vida. - Resultados increíbles. ",
+      aplicacion: "Humectar y proteger la piel de los rayos solares con la Loción Humectante Facial con FPS 30 Botanical Effects®, aplicarla 15 minutos antes de la exposición al sol en el rostro y cuello con movimientos ascendentes, con los dedos anular y medio. Volver a aplicar con frecuencia para mantener la protección.",
+      beneficios: "La Hidratante con FPS 30 protege de los rayos UVA y UVB. Se absorbe rápidamente sin dejar residuos. Logra la hidratación óptima que necesita tu piel durante 12 horas. Al contener FPS, no hay de qué preocuparse al aplicar protección solar además de la humectante. La piel tiene un aspecto saludable, fresco y ¡está lista para enfrentar el día!",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/botanical/producto5.jpg"
+    }
+    ,
+    {
+      id: 20,
+      uso: "Cara",
+      name: "Petite Palette Mary Kay",
+      type: "Sombra de ojos",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La Petite Palette de Mary Kay tiene capacidad para cuatro tonos de Sombra de Ojos Chromafusion™, para que puedas crear looks personalizados y llevarlos contigo.",
+      aplicacion: "",
+      beneficios: "Tapa transparente que te permite ver las sombras del interior.Recargable, de base magnética con espacio para cuatro sombras.Elige una paleta con looks ya creados o crea tu propio look.*Se vende vacía. **Cada Sombra de Ojos Chromafusion™ se vende por separado",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/sombras/producto15.jpg"
+    }
+    ,
+    {
+      id: 21,
+      uso: "Cara",
+      name: "Set de Brochas",
+      type: "brochas",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "El Set de Brochas con Estuche Mary Kay® incluye cinco brochas de la más alta calidad, perfectas para crear multíples looks. Además podrás guardarlas en su Estuche para llevarlas a donde sea que vayas.",
+      aplicacion: "",
+      beneficios: "La forma de las brochas y sus cerdas sintéticas, hacen que los productos se difuminen sobre la piel de forma suave y uniforme. El Set incluye:Brocha para Rubor Mary Kay®:Esta brocha multiusos está diseñada con tres lados para ayudarte a resaltar, esculpir y destacar tus pómulos sin dejar líneas demarcadas. Utiliza los ángulos de esta brocha multidimensional para sobresaltar e iluminar tu look con confianza. Con las nuevas cerdas sintéticas tan suaves como plumas, podes captar la cantidad perfecta de polvo y también deslizarse de manera fabulosa con productos líquidos o en crema. Además, su fabulosa flexibilidad se amolda a cada contorno y difuminar a la perfección. Brocha para Polvo Mary Kay®: La Brocha para Polvos te permite conseguir un acabado impecable en un abrir y cerrar de ojos gracias a su precisa forma de domo. Brocha para Sombras Mary Kay®: Aplicá la sombra de ojos como una profesional con esta versátil brocha. Su forma cónica ayuda a que la brocha encaje de forma natural en los delicados contornos del párpado, y sus cerdas flexibles ayudan a difuminar.Este pincel tiene una punta redondeada mediana que se adapta a los perfiles naturales del párpado. Con las nuevas cerdas sintéticas tan suaves como plumas, puede captar la cantidad perfecta de sombra para ojos y también deslizarse de manera fabulosa con productos líquidos o en crema. ¡Crea con facilidad múltiples looks para tus ojos! Brocha Difuminadora para Ojos Mary Kay®: El diseño de su punta densa y afilada te ayuda a crear acentos detallados. Te permite difuminar en la línea de las pestañas para lograr el ansiado look ahumado, y ayuda a destacar las áreas de difícil acceso.Ojos ahumados, acentos detallados para tus párpados y looks que llaman la atención están a tu alcance con este pincel indispensable que debes añadir a tu colección.La punta, con una forma perfectamente densa y afilada, está diseñada para ayudarte a difuminar con éxito. Combínalo con otros pinceles Mary Kay® para crear un sinfín de looks. Las cerdas sintéticas tan suaves como plumas, captan la cantidad perfecta de sombra para ojos y también se deslizan de manera fabulosa con productos líquidos o en crema. Brocha Definidora para Ojos Mary Kay®: Este pincel está diseñado para amoldarse a los contornos y pliegues del párpado para añadir una dimensión profesional a cualquier look para tus ojos.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/aplicadores/b-set-brochas.jpg"
+    }
+    ,
+    {
+      id: 22,
+      uso: "Cara",
+      name: "Brocha para Polvo",
+      type: "brochas",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La Brocha para Polvos La brocha para polvos te permite conseguir un acabado impecable en un abrir y cerrar de ojos gracias a su precisa forma de domo.",
+      aplicacion:"",
+      beneficios:"",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/aplicadores/b-brocha-polvo.jpg"
+    }
+    ,
+    {
+      id: 23,
+      uso: "Cara",
+      name: "Brocha para Rubor Compacto",
+      type: "brochas",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La brocha perfecta para aplicar el Rubor Mary Kay Chromafusion™, el Polvo para el Contorno del Rostro Mary Kay Chromafusion™ y el Iluminador Mary Kay Chromafusion™.",
+      aplicacion: "",
+      beneficios: "Las cerdas sesgadas están diseñadas para facilitar el destacar, esculpir e iluminar tus pómulos para lograr una apariencia radiante sin líneas marcadas.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/aplicadores/b-brocha-rubor-compacto.jpg"
+    }
+    ,
+    {
+      id: 24,
+      uso: "Cara",
+      name: "Brocha para Base de Maquillaje Líquida",
+      type: "brochas",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La Brocha para Base de Maquillaje Líquida Mary Kay® te permite conseguir la cobertura deseada con tu base de maquillaje. Gracias a su forma angular, permite llegar a todas las zonas del rostro.",
+      aplicacion: "",
+      beneficios: "Cerdas sintéticas que permiten recoger la cantidad correcta de tu base de maquillaje líquida, desde fórmulas ligeras a las más cremosas. Su punta angular permite aplicar la base de maquillaje correctamente para llegar a las zonas más difíciles del rostro. Máximo rendimiento: una recogida perfecta del producto, una aplicación sencilla y una mezcla impecable.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/aplicadores/b-Brocha-para-Base-Maquillaje-liquida.jpg"
+    }
+    ,
+    {
+      id: 25,
+      uso: "Cara",
+      name: "Brocha para Polvo Compacto",
+      type: "brochas",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La Brocha para Polvo Compacto es perfecta para una cobertura ligera de los Polvos Chromafusion Mary Kay®.",
+      aplicacion: "",
+      beneficios: "La brocha tiene el mismo ancho que los Polvos Chromafusion. Este tamaño asegura que una pasada de esquina a esquina recoja la cantidad adecuada de producto para una aplicación uniforme.La base biselada del mango no solo imita el diseño moderno del Compacto Perfect, sino que también te permite retirar fácilmente la brocha del compartimiento al empujarla con un dedo por la parte inferior del mango.Esta brocha cuenta con las mismas cerdas sintéticas de alto grado y súper suaves que el Set de Brochas Mary Kay®.Cabe perfectamente en el compartimiento del Compacto Perfect Palette de Mary Kay.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/aplicadores/b-brocha-polvo-compacto.jpg"
+    }
+    ,
+    {
+      id: 26,
+      uso: "Cara",
+      name: "Brocha para Rubor Compacto",
+      type: "brochas",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La brocha perfecta para aplicar el Rubor Mary Kay Chromafusion™, el Polvo para el Contorno del Rostro Mary Kay Chromafusion™ y el Iluminador Mary Kay Chromafusion™.",
+      aplicacion: "Después de limpiar, aplicar una pequeña cantidad del Tónico Facial Refrescante Botanical Effects® en un algodón y aplicarlo en el rostro y cuello, evitando el área de los ojos.",
+      beneficios: "Las cerdas sesgadas están diseñadas para facilitar el destacar, esculpir e iluminar tus pómulos para lograr una apariencia radiante sin líneas marcadas.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/aplicadores/b-brocha-rubor-compacto.jpg"
+    }
+    ,
+    {
+      id: 27,
+      uso: "Cara",
+      name: "Brocha Oval para Maquillaje Mary Kay",
+      type: "brochas",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La Brocha Oval para Maquillaje Mary Kay ayuda a aplicar la Base de manera uniforme de forma muy rápida y sencilla.",
+      aplicacion: "Aplicá la Base de Maquillaje TimeWise 3D™ directamente en la Brocha o pasa la Brocha sobre la Base en Crema con Acabado en Polvo. Aplicá suavemente la base con movimientos circulares o cortos hasta lograr el look que deseas.",
+      beneficios: "Las cerdas sintéticas elaboradas con maestría permiten obtener la cantidad justa del producto en fórmula líquida o crema.El mango único proporciona excelente control para lograr un acabado rápido e impecable y desempeño profesional en casa.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/aplicadores/b-brocha-oval.jpg"
+    }
+    ,
+    {
+      id: 28,
+      uso: "Cara",
+      name: "Esponja para Maquillaje Mary Kay",
+      type: "brocha",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "Esta herramienta versátil y reutilizable puede ayudarlo a lograr un acabado impecable.",
+      aplicacion: "Mojá la esponja y exprimí el exceso de agua.Aplicá una pequeña cantidad de producto en la mano o en la paleta, y levantá el producto con la esponja humedecida. Con un suave movimiento de palmaditas, apliá el producto al área deseada.Utilizá la parte inferior plana de la esponja para la aplicación de estilo de punteado en áreas grandesLa punta es ideal para áreas más pequeñas, así como para la mezcla general.",
+      beneficios: "Cuenta con un diseño ergonómico fácil de agarrar y bordes duales personalizados. Es perfecto para la aplicación de Bases en crema, líquidas, correctores y más. El extremo plano es perfecto para mezclar áreas más grandes. La punta está diseñada para áreas de difícil acceso, como debajo de los ojos.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/aplicadores/b-esponja-oscura.jpg"
+    }
+    ,
+    {
+      id: 29,
+      uso: "Cara",
+      name: "Tónico Facial Refrescante Mary Kay Botanical Effects",
+      type: "Tonico/tónico",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La línea del Cuidado de la Piel Botanical Effects® es el primer paso para conseguir una piel radiante y nutrida. - Ingredientes que proporcionan beneficios esenciales. Extractos de Pitaya se unen al Aloe Vera, famosa desde hace siglos, aportando antioxidantes a cada uno de los productos. - Un cuidado de la piel simple y fácil de utilizar, que no frenará tu estilo de vida. - Resultados increíbles. ",
+      aplicacion: "Después de limpiar, aplicar una pequeña cantidad del Tónico Facial Refrescante Botanical Effects® en un algodón y aplicarlo en el rostro y cuello, evitando el área de los ojos.",
+      beneficios: "El Tónico Facial Refrescante disminuye la apariencia de los poros mientras elimina el exceso de grasitud.Elimina restos de impurezas – como pueden ser células muertas – para una limpieza completa.Contiene extracto de hamamelis, utilizado tradicionalmente como astringente.Ayuda a controlar el brillo, dejando la piel con un aspecto saludable y una sensación refrescante.",
+      image: "http://c.files.bbci.co.uk/48DD/production/_107435681_perro1.jpg"
+    }
+    ,
+
   ];
   constructor() { }
 
