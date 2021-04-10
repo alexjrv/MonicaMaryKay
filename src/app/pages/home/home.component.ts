@@ -32,7 +32,7 @@ resultados:any[]=[]
   }
   obtenerProductos() {
     this.loading = false;
-    this.resultados = this.infoService.getProducts();
+    this.listaProductos = this.infoService.getProducts();
     this.loading = true;
   }
   verProducto(id: number) {

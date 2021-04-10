@@ -387,14 +387,196 @@ export class InfoService {
     {
       id: 29,
       uso: "Cara",
-      name: "Tónico Facial Refrescante Mary Kay Botanical Effects",
-      type: "Tonico/tónico",
+      name: "Esponjas Cosméticas x 2",
+      type: "brocha",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La línea del Cuidado de la Piel Botanical Effects® es el primer paso para conseguir una piel radiante y nutrida. - Ingredientes que proporcionan beneficios esenciales. Extractos de Pitaya se unen al Aloe Vera, famosa desde hace siglos, aportando antioxidantes a cada uno de los productos. - Un cuidado de la piel simple y fácil de utilizar, que no frenará tu estilo de vida. - Resultados increíbles. ",
-      aplicacion: "Después de limpiar, aplicar una pequeña cantidad del Tónico Facial Refrescante Botanical Effects® en un algodón y aplicarlo en el rostro y cuello, evitando el área de los ojos.",
-      beneficios: "El Tónico Facial Refrescante disminuye la apariencia de los poros mientras elimina el exceso de grasitud.Elimina restos de impurezas – como pueden ser células muertas – para una limpieza completa.Contiene extracto de hamamelis, utilizado tradicionalmente como astringente.Ayuda a controlar el brillo, dejando la piel con un aspecto saludable y una sensación refrescante.",
-      image: "http://c.files.bbci.co.uk/48DD/production/_107435681_perro1.jpg"
+      aplicacion: "",
+      beneficios: "Las Esponjas Cosméticas de Mary Kay® son ideales para aplicar la Base de Maquillaje en Crema con acabado en Polvo o para difuminar el Corrector Perfecting Concealer, Iluminador para Ojos o las Bases Líquidas Mary Kay®. La textura microfina ayuda a proporcionar la máxima flexibilidad para una aplicación pareja y uniforme. Además de reducir desperdicios de maquillaje permite aplicarlo en zonas difíciles como la parte inferior de los ojos y el contorno de la nariz.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/aplicadores/b-esponjas.jpg"
+    }
+    ,
+    {
+      id: 30,
+      uso: "Cara",
+      name: "Perfect Palette Mary Kay",
+      type: "brocha",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La línea del Cuidado de la Piel Botanical Effects® es el primer paso para conseguir una piel radiante y nutrida. - Ingredientes que proporcionan beneficios esenciales. Extractos de Pitaya se unen al Aloe Vera, famosa desde hace siglos, aportando antioxidantes a cada uno de los productos. - Un cuidado de la piel simple y fácil de utilizar, que no frenará tu estilo de vida. - Resultados increíbles. ",
+      aplicacion: "",
+      beneficios: "De diseño moderno y elegante, podes personalizarla con infinidad de productos gracias a su interior magnetizado.Apta para colocar Sombras Chromafusion Mary Kay, Rubores, Contorno e Iluminador Chromafusion Mary Kay, Base en Crema Acabado en Polvo Mary Kay y ¡hasta aplicadores Mary Kay!La Perfect Palette incluye un espejo, por lo que podrás llevarla siempre con vos y retocar tu look en cualquier momento y lugar.¡A donde vayas, tu belleza va con vos! *Se vende vacía",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/rostro/rubores/producto5.jpg"
+    }
+    ,
+    {
+      id: 31,
+      uso: "Cara",
+      name: "Rubores Compactos Mary Kay Chromafusion",
+      type: "rubor",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "Para un rubor natural mate o luminoso, elegí entre los 6 nuevos tonos de Rubores Chromafusion™.",
+      aplicacion: "Aplicalo en los pómulos o en las mejillas para un toque de color ligero pero radiante desde cualquier luz. Gracias a la tecnología Chromafusion™ Matrix, cada aplicación será sedosa, aportando un brillo duradero y natural.De larga duración: no importa la actividad que desarrolles a lo largo del día ¡ Permanecerás impecable!Tonos diseñados para favorecer a cualquier tipo de piel.",
+      beneficios: "Las Esponjas Cosméticas de Mary Kay® son ideales para aplicar la Base de Maquillaje en Crema con acabado en Polvo o para difuminar el Corrector Perfecting Concealer, Iluminador para Ojos o las Bases Líquidas Mary Kay®. La textura microfina ayuda a proporcionar la máxima flexibilidad para una aplicación pareja y uniforme. Además de reducir desperdicios de maquillaje permite aplicarlo en zonas difíciles como la parte inferior de los ojos y el contorno de la nariz.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/rostro/rubores/producto8.jpg"
+    }
+    ,
+    {
+      id: 32,
+      uso: "Cara",
+      name: "Polvo para el Contorno de Rostro Mary Kay Chromafusion Latte",
+      type: "rubor",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "Contornea de forma sencilla con un tono mate que se mezcla con la piel para dar profundidad.",
+      aplicacion: "Recomendamos aplicar el Polvo para el Contorno del Rostro Mary Kay Chromafusion™ con la Brocha para Rubor de Mary Kay. Aplicá el Polvo desde el centro del pómulo hacia la sien con el lado plano de la brocha. Utilizá la parte inferior para aportar profundidad (Contorno) y el lado superior para obtener más precisión a la hora de utilizar el Iluminador.",
+      beneficios: "Con la tecnología Chromafusion™ Matrix los polvos Chromafusion se ven radiantes desde cualquier luz, ofreciendo unos tonos puros impregnados de pigmentos para un acabado naturalmente radiante. El Polvo para el Contorno del Rostro Mary Kay Chromafusion™ se mezcla con la piel para dar profundidad. Fórmula de larga duración sin importar cual sea el día de trabajo, el ejercicio realizado o el clima.Tono que combina con cualquier tono de piel.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/rostro/rubores/producto6.jpg"
+    }
+    ,
+    {
+      id: 33,
+      uso: "Cara",
+      name: "Iluminador para el Rostro Mary KAy Chromafusion Glazed",
+      type: "rubor",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "Aporta luz al rostro con este polvo iluminador, un tono que dará un impulso de luminosidad a tu rostro.",
+      aplicacion: "Recomendamos aplicar el Polvo Iluminador Mary Kay Chromafusion™ con la Brocha para Rubor de Mary Kay.Aplica el Polvo desde el centro del pómulo hacia la sien con el lado plano de la brocha. Utiliza la parte inferior para aportar profundidad (Contorno) y el lado superior para obtener más precisión a la hora de utilizar el Iluminador.",
+      beneficios: "Aplica en los pómulos para dar una apariencia sutil y levantada a las mejillas donde la luz se refleja normalmente en la cara. Este Polvo Iluminador se ve radiante desde cualquier luz, ofreciendo un tono puro impregnado de pigmento para un acabado naturalmente radiante. El Iluminador Mary Kay Chromafusion™ da luminosidad al rostro.Con la tecnología Chromafusion™ Matrix de Mary Kay. Fórmula de larga duración sin importar cual sea el día de trabajo, el ejercicio realizado o el clima.Tono que combina con cualquier color de piel.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/rostro/rubores/producto7.jpg"
+    }
+    ,
+    {
+      id: 34,
+      uso: "Ojos",
+      name: "Sombras Compactas para Párpados Mary Kay Chromafusion",
+      type: "sombras",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "Esta sombra de ojos rica en pigmentos y de color duradero, viene en un espectro de tonos sensacionales y se mantiene resistente durante 12 horas. Nueva línea de pigmentos con acabado mate o brilloso creados por los mejores maquilladores y evaluados en una amplia gama de tonos de piel",
+      aplicacion: "-1 BASE: Aplicá una sombra neutral en todo el párpado móvil, para que actúe como un lienzo perfecto para el resto de tu look. -2. PLIEGUE DEL OJO: Utilizá un tono un poco más oscuro para añadir dimensión y contraste al pliegue del ojo. -3 RESALTÁ: Usá un tono oscuro para delinear por sobre la línea de las pestañas, tanto superiores como inferiores, o aplicado para crear un efecto más dramático en la esquina exterior del ojo. -4 ILUMINÁ: Aplicá el tono más claro sobre el hueso debajo de la ceja y el lagrimal, para iluminar tu mirada",
+      beneficios: "Colores intensos, verdaderos y de alto impacto.Se desliza de manera uniforme y fácil.Se mantiene resistente durante 12 horas. Mary Kay Chromafusion™ Matrix Technology. La tecnología Chromafusion es una innovación que permite intensidad en el color y una fórmula resistente. Todo ello envolviendo los pigmentos premium en una capa de crema de seda para amplificar el color. Para su realización se han evaluado cientos de muestras y cada tono se ha refinado con precisión siguiendo altos estándares de calidad. Además, cada tono se ha evaluado en diferentes tonos de piel. Gracias a la colaboración de un grupo de maquilladores profesionales, se ha creado una línea de tonos mate y brillo, que permitirá crear infinidad de looks.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/sombras/producto14.jpg"
+    }
+    ,
+    {
+      id: 35,
+      uso: "Cara",
+      name: "Trío de Sombras Mary Kay at Play®",
+      type: "Sombras",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La línea del Cuidado de la Piel Botanical Effects® es el primer paso para conseguir una piel radiante y nutrida. - Ingredientes que proporcionan beneficios esenciales. Extractos de Pitaya se unen al Aloe Vera, famosa desde hace siglos, aportando antioxidantes a cada uno de los productos. - Un cuidado de la piel simple y fácil de utilizar, que no frenará tu estilo de vida. - Resultados increíbles. ",
+      aplicacion: "",
+      beneficios: "La combinación de colores ofrece un sinfín de posibilidades para formar looks. Su ligera fórmula proporciona colores vibrantes que duran. El color se aplica uniformemente sin dejar espacios más claros. Su fórmula se desliza sin esfuerzo ofreciendo un increíble color. Disponible en 3 vibrantes combinaciones de color: oh honey, morning toffee y no fairyteal.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/sombras/producto13.jpg"
+    }
+    ,
+    {
+      id: 36,
+      uso: "Ojos",
+      name: "Corrector Iluminador para Ojos Mary Kay®",
+      type: "Corrector ojos",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "Ayuda a despertar los ojos de aspecto cansado! Su tono durazno es el preferido de los maquilladores para contrarrestar los tonos azulados y morados debajo de los ojos. El corrector iluminador añade el toque de color ideal a los tonos de piel ivory y beige para neutralizar las ojeras e iluminar el área debajo de los ojos ayudando a lucir un aspecto despierto y revitalizado. ",
+      aplicacion: "Primero, aplicar Corrector Iluminador para Ojos Mary Kay® y a continuación, aplicar Corrector Perfecting Concealer. El Corrector Iluminador para Ojos Mary Kay® es ideal para tonos de piel de Light Ivory a Deep Beige.",
+      beneficios: "Neutraliza los círculos oscuros e ilumina el área debajo de los ojos ayudando a lucir un aspecto despierto y revitalizado. Su tono durazno está especialmente formulado para contrarrestar los tonos azulados y morados debajo de los ojos. Añade el toque justo a los tonos de piel ivory y beige. Combina con el Corrector Perfecting Concealer para una cobertura natural e impecable. Adecuado para piel sensible, incluyendo la piel delicada del contorno de ojos",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/rostro/correctores/producto3.jpg"
+    }
+    ,
+    {
+      id: 37,
+      uso: "Ojos",
+      name: "Delineador Líquido en Plumón para Ojos Mary Kay®",
+      type: "Delineador",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "Conviértete en una especialista para tus delineados con el Delineador Líquido en Plumón para Ojos Mary Kay®, es fácil de aplicar con punta de alta precisión que se desliza fácilmente brindando un color intenso de alta definición y secado rápido. • Fácil de aplicar, fácil de usar, ¡delineado perfecto! • Con punta de alta precisión que se desliza fácilmente. • Color intenso de alta definición y secado rápido. • Fórmula de larga duración que no se corre. • Ideal para cualquier tipo de delineado.",
+      aplicacion: "",
+      beneficios: "",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/lapices/producto8.jpg"
+    }
+    ,
+    {
+      id: 38,
+      uso: "Ojos",
+      name: "Lápiz Delineador para Ojos Mary Kay®",
+      type: "Delineador",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "Brinda a los ojos un color intenso, gracias a su fórmula cremosa y de larga duración. En su tapa incluye un pequeño sacapuntas que permite crear líneas definidas.",
+      aplicacion: "Gira el delineador para sacarle punta.Trazá suavemente línea fina en la base del párpado superior, pegada a la línea de las pestañas, desde la esquina interna a la externaDibujá otra línea justo bajo las pestañas inferiores, desde la esquina interna hacia la externa. Si lo deseás, podés suavizar con un aplicador de sombra (esponja) o hisopo.",
+      beneficios: "",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/lapices/generica.jpg"
+    }
+    ,
+    {
+      id: 39,
+      uso: "Ojos",
+      name: "Lápiz Delineador para Ojos en Gel",
+      type: "Delineador",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "La precisión de un lápiz delineador se une con la intensidad de un delineador líquido en una suave fórmula de gel, con aplicador incluido.",
+      aplicacion: "El Delineador de Ojos en Gel es perfecto para un delineado de ojos nítido, la codiciada imagen de ojos con *alita* que podés perfeccionar en tres simples pasos. -1 Mojá el pincel en el delineador y eliminá el exceso de producto con papel tisú antes de comenzar. Cerrá el ojo y estiralo suavemente. Trazá puntos pequeños junto a la línea de las pestañas superiores y conectalos para formar una línea continua, asegurándote de que la piel no se muestre entre la línea y las pestañas. -2 Creá la “alita” trazando una línea fina a lo largo de las pestañas inferiores. Conectá esta línea a la línea de las pestañas superiores, creando un triangulito. -3 Rellená el triángulo y seguí trazando sobre la línea suavemente, comenzando con una línea delgada y terminá en una línea más gruesa para crear ese punto fino. Más tips estupendos: Aplicá la Sombra PRIMERO y luego aplicá el delineador en gel. Si no deseás lucir con demasiado maquillaje, mantené el resto de tu look natural. Para desarrollar confianza en tu aplicación, aplicá en la mitad de la línea de tus pestañas y luego en la otra mitad, en lugar de trazar una línea contínua.",
+      beneficios: "Fácil de manejar y de aplicar, este versátil delineador de ojos te permite trazar líneas finas para un look de día o bien, intensificar para un look más dramático. Su aplicador te permite obtener la aplicación precisa que necesitas para crear cualquier look. Su fórmula ligera se desliza suavemente sin tener que frotar. Color intenso y secado ultrarrápido. De larga duración. Probado por oftalmólogos y dermatólogos. Resistente al agua. Adecuado para usuarias de lentes de contacto y apropiado para ojos sensibles.",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/lapices/producto7.jpg"
+    }
+    ,
+    {
+      id: 37,
+      uso: "Ojos",
+      name: "Delineador Líquido en Plumón para Ojos Mary Kay®",
+      type: "Delineador",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "Conviértete en una especialista para tus delineados con el Delineador Líquido en Plumón para Ojos Mary Kay®, es fácil de aplicar con punta de alta precisión que se desliza fácilmente brindando un color intenso de alta definición y secado rápido. • Fácil de aplicar, fácil de usar, ¡delineado perfecto! • Con punta de alta precisión que se desliza fácilmente. • Color intenso de alta definición y secado rápido. • Fórmula de larga duración que no se corre. • Ideal para cualquier tipo de delineado.",
+      aplicacion: "",
+      beneficios: "",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/lapices/producto8.jpg"
+    }
+    ,
+    {
+      id: 37,
+      uso: "Ojos",
+      name: "Delineador Líquido en Plumón para Ojos Mary Kay®",
+      type: "Delineador",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "Conviértete en una especialista para tus delineados con el Delineador Líquido en Plumón para Ojos Mary Kay®, es fácil de aplicar con punta de alta precisión que se desliza fácilmente brindando un color intenso de alta definición y secado rápido. • Fácil de aplicar, fácil de usar, ¡delineado perfecto! • Con punta de alta precisión que se desliza fácilmente. • Color intenso de alta definición y secado rápido. • Fórmula de larga duración que no se corre. • Ideal para cualquier tipo de delineado.",
+      aplicacion: "",
+      beneficios: "",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/lapices/producto8.jpg"
+    }
+    ,
+    {
+      id: 37,
+      uso: "Ojos",
+      name: "Delineador Líquido en Plumón para Ojos Mary Kay®",
+      type: "Delineador",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "Conviértete en una especialista para tus delineados con el Delineador Líquido en Plumón para Ojos Mary Kay®, es fácil de aplicar con punta de alta precisión que se desliza fácilmente brindando un color intenso de alta definición y secado rápido. • Fácil de aplicar, fácil de usar, ¡delineado perfecto! • Con punta de alta precisión que se desliza fácilmente. • Color intenso de alta definición y secado rápido. • Fórmula de larga duración que no se corre. • Ideal para cualquier tipo de delineado.",
+      aplicacion: "",
+      beneficios: "",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/lapices/producto8.jpg"
+    }
+    ,
+    {
+      id: 37,
+      uso: "Ojos",
+      name: "Delineador Líquido en Plumón para Ojos Mary Kay®",
+      type: "Delineador",
+      price: 1000,
+      link: "https://www.facebook.com/",
+      description: "Conviértete en una especialista para tus delineados con el Delineador Líquido en Plumón para Ojos Mary Kay®, es fácil de aplicar con punta de alta precisión que se desliza fácilmente brindando un color intenso de alta definición y secado rápido. • Fácil de aplicar, fácil de usar, ¡delineado perfecto! • Con punta de alta precisión que se desliza fácilmente. • Color intenso de alta definición y secado rápido. • Fórmula de larga duración que no se corre. • Ideal para cualquier tipo de delineado.",
+      aplicacion: "",
+      beneficios: "",
+      image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/lapices/producto8.jpg"
     }
     ,
 
