@@ -36,12 +36,15 @@ resultados:any[]=[]
     this.loading = true;
   }
   verProducto(id: number) {
+    window.scroll(0,0);
     this.router.navigate(['/producto-detalle', id]);
+
   }
   onTableDataChange(event:any){
     this.page = event;
     this.loading = false;
     this.obtenerProductos();
+    window.scroll(0,0);
     this.loading = true;
   }
 

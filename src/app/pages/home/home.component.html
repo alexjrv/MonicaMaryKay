@@ -1,5 +1,5 @@
 
-<div class="about-block-content">
+<div class="about-block-content text-center">
   <div class="border-add"></div>
   <h4>About Us</h4>
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati beatae quam voluptatibus deleniti ipsa
@@ -7,14 +7,15 @@
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
   <p> </p>
 </div>
-<div class="content_top">
+<div class="content_top container">
   <h3 class="m_1">Nuestros productos</h3>
-  <div class="container">
-    <div class="box_1">
+  <h5 class="text-center">a través de nuestro buscador podras encontrar un producto por nombre, uso, o tipo.</h5>
+  <div class="container text-center p-4">
+    <div class="box_1 text-center">
       <div id="inicio" class="col-md-12 text-center">
         <div class="input-group text-center rounded-left rounded-right">
 
-          <input type="text" #term placeholder="Ingrese el nombre o tipo de producto" (keyup.enter)="buscar(term.value)"
+          <input type="text" class="text-center" #term placeholder="Ingrese el nombre o tipo de producto" (keyup.enter)="buscar(term.value)"
             style="width: 78%; margin-bottom: 15px;" class="rounded-left">
 
           <div class="section group rounded-right-lg"> <button (click)="buscar(term.value)">BUSCAR</button></div>
@@ -35,7 +36,7 @@
           <div class="shop-holder">
             <div class="product-img">
               <a (click)="verProducto(item.id)">
-                <img src="assets/images/pic1.jpg" class="img-product" alt="item4"
+                <img [src]="item.image" class="img-product" alt="item4"
                   style="width:100%; background-color:white !important"> </a>
               <a [href]="item.link" class="button item_add"></a>
             </div>
@@ -54,7 +55,6 @@
 
         </div>
       </div>
-
 
       <div class="clearfix"></div>
     </div>

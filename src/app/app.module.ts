@@ -3,6 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { FormsModule } from '@angular/forms';
+import { ShareButtonsModule } from 'ngx-sharebuttons/buttons';
 
 
 import { AppRoutingModule } from './app-routing.module';
@@ -39,7 +40,8 @@ import { PinturaLabiosComponent } from './subpages/pintura-labios/pintura-labios
     NgbModule,
     NgxPaginationModule,
     AngularFireModule.initializeApp(environment.firebase),
-    AngularFirestoreModule
+    AngularFirestoreModule,
+    ShareButtonsModule
 
   ],
   providers: [],

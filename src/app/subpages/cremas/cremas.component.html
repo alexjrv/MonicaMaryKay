@@ -14,7 +14,7 @@ style="margin-bottom:20px;width:260px">
 <div class="shop-holder">
   <div class="product-img">
     <a (click)="verProducto(item.id)">
-      <img src="assets/images/pic1.jpg" class="img-product" alt="item4"
+      <img [src]="item.image" class="img-product" alt="item4"
         style="width:100%; background-color:white !important"> </a>
     <a [href]="item.link" class="button item_add"></a>
   </div>

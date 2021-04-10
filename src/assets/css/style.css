@@ -352,7 +352,7 @@ body a{
   bottom: 0;
   left: 0;
   right: 0;
-  background:#000;
+  background:goldenrod;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 50%;
@@ -537,6 +537,7 @@ h2.m_3 {
 .shop-holder1:hover{
 	border:1px solid #ff89ce;
 }
+@import '~ngx-sharebuttons/themes/default/default-theme';
 .row_4{
 	background: url(../images/pic10.jpg) no-repeat center top;
   -webkit-background-size: cover;

@@ -15,7 +15,7 @@ producto:any = {};
   ngOnInit(): void {
     this.actRoute.params.subscribe(params =>{
       this.producto = this.info.getProduct(params.id);
-      console.log(this.producto)
+      window.scroll(0,0);
     });
   }
 
