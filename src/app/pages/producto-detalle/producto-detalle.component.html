@@ -62,12 +62,12 @@
        </ul>
       </div> -->
       <ul class="menu_drop">
-       <li class="item1"><a><img src="assets/images/product_arrow.png">Aplicacion</a>
+       <li *ngIf="producto.aplicacion!=''" class="item1"><a><img src="assets/images/product_arrow.png">Aplicacion</a>
          <ul>
            <li class="subitem1" style="background-color: white;">{{producto.aplicacion}}</li>
          </ul>
        </li>
-       <li class="item2"><a><img src="assets/images/product_arrow.png">Beneficios</a>
+       <li *ngIf="producto.beneficios!=''" class="item2"><a><img src="assets/images/product_arrow.png">Beneficios</a>
          <ul>
              <li class="subitem2" style="background-color: white;">{{producto.beneficios}}</li>
          </ul>

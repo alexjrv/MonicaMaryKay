@@ -27,11 +27,9 @@ resultados:any[]=[]
 
 
   ngOnInit(): void {
-    this.obtenerProductos();
-
+this.buscar("");
   }
   obtenerProductos() {
-    this.loading = false;
     this.listaProductos = this.infoService.getProducts();
     this.loading = true;
   }
@@ -42,10 +40,10 @@ resultados:any[]=[]
   }
   onTableDataChange(event:any){
     this.page = event;
-    this.loading = false;
+    this.loading = true;
     this.obtenerProductos();
     window.scroll(0,0);
-    this.loading = true;
+    this.loading = false;
   }
 
   onTableSizeChange(event:any): void {
@@ -55,9 +53,9 @@ resultados:any[]=[]
 
   }
 buscar(termino:string){
-  this.loading = false;
- this.resultados = this.infoService.buscarProductos(termino);
   this.loading = true;
+ this.resultados = this.infoService.buscarProductos(termino);
+  this.loading = false;
 }
 
 }

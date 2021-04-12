@@ -410,7 +410,7 @@ h2.m_3 {
   right: 30px;
   width: 40px;
   height: 40px;
-  background: url(../images/plus.png) no-repeat 8px 8px #F54D5B;
+  background: no-repeat 8px 8px #F54D5B;
   color: #fff;
   text-align: center;
   line-height: 33px;
@@ -1223,7 +1223,7 @@ ul.footer_social li a i:hover{
 			margin: 5px 20px 5px 20px ;
 		}
 .item_add {
-  background: url(../images/plus.png) no-repeat 10px 10px #F54D5B;
+  background: no-repeat 10px 10px #07690c;
   text-align: center;
   font-size: 11px;
   border-top-left-radius: 50%;

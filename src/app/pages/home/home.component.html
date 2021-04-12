@@ -20,7 +20,7 @@
 
           <div class="section group rounded-right-lg"> <button (click)="buscar(term.value)">BUSCAR</button></div>
         </div>
-        <div class="loading text-center" *ngIf="!loading">
+        <div class="loading text-center" *ngIf="loading">
           <div><i class="fas fa-spinner fa-spin" style="font-size: 60px;"></i></div>
         <div style="color: black;">
           Aguarde por favor
@@ -38,7 +38,8 @@
               <a (click)="verProducto(item.id)">
                 <img [src]="item.image" class="img-product" alt="item4"
                   style="width:100%; background-color:white !important"> </a>
-              <a [href]="item.link" class="button item_add"></a>
+              <a href="https://wa.me/541137939664?text=Hola%quería%consultarte%sobre%{{item.message}}"><i class="fab fa-whatsapp" style="font-size: 15px;"></i></a>
+
             </div>
           </div>
           <div class="shop-content" style="height: 80px;padding-bottom: 10px !important;">
@@ -48,6 +49,7 @@
             <!-- <span class="amount item_price">{{item.price}}</span> -->
           </div>
         </div>
+
         <div class="clearfix"></div>
 
         <div *ngIf="resultados.length >9" class="d-flex justify-content-center">
