@@ -1,13 +1,13 @@
+import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { InfoService } from 'src/app/services/info.service';
-import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-pintura-labios',
-  templateUrl: './pintura-labios.component.html',
-  styleUrls: ['./pintura-labios.component.scss']
+  selector: 'app-sombra',
+  templateUrl: './sombra.component.html',
+  styleUrls: ['./sombra.component.scss']
 })
-export class PinturaLabiosComponent implements OnInit {
+export class SombraComponent implements OnInit {
 
   resultados:any[]=[]
   listaProductos: any[] = []
@@ -24,7 +24,7 @@ export class PinturaLabiosComponent implements OnInit {
               private router:Router) { }
 
   ngOnInit(): void {
-    this.getAllPinturaLabios();
+    this.getAllSombras();
   }
   onTableSizeChange(event:any): void {
     this.tableSize = event.target.value;
@@ -38,9 +38,9 @@ export class PinturaLabiosComponent implements OnInit {
   verProducto(id: number) {
     this.router.navigate(['/producto-detalle', id]);
   }
-  getAllPinturaLabios(){
+  getAllSombras(){
     this.loading = false;
-    this.resultados = this.infoService.getPinturaLabios();
+    this.resultados = this.infoService.getSombras();
     this.loading = true;
   }
 }

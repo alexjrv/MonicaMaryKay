@@ -18,7 +18,20 @@ import { ProductoDetalleComponent } from './pages/producto-detalle/producto-deta
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { CategoriasComponent } from './pages/categorias/categorias.component';
 import { CremasComponent } from './subpages/cremas/cremas.component';
-import { PinturaLabiosComponent } from './subpages/pintura-labios/pintura-labios.component';
+import { GelComponent } from './subpages/gel/gel.component';
+import { LocionComponent } from './subpages/locion/locion.component';
+import { SombraComponent } from './subpages/sombra/sombra.component';
+import { BrochaComponent } from './subpages/brocha/brocha.component';
+import { RuborComponent } from './subpages/rubor/rubor.component';
+import { CorrectorComponent } from './subpages/corrector/corrector.component';
+import { DelineadorComponent } from './subpages/delineador/delineador.component';
+import { LabialComponent } from './subpages/labial/labial.component';
+import { BaseComponent } from './subpages/base/base.component';
+import { DesmaquilladorComponent } from './subpages/desmaquillador/desmaquillador.component';
+import { MascarillaComponent } from './subpages/mascarilla/mascarilla.component';
+import { SprayComponent } from './subpages/spray/spray.component';
+import { FraganciaComponent } from './subpages/fragancia/fragancia.component';
+
 
 @NgModule({
   declarations: [
@@ -29,7 +42,20 @@ import { PinturaLabiosComponent } from './subpages/pintura-labios/pintura-labios
     ProductoDetalleComponent,
     CategoriasComponent,
     CremasComponent,
-    PinturaLabiosComponent,
+    GelComponent,
+    LocionComponent,
+    SombraComponent,
+    BrochaComponent,
+    RuborComponent,
+    CorrectorComponent,
+    DelineadorComponent,
+    LabialComponent,
+    BaseComponent,
+    DesmaquilladorComponent,
+    MascarillaComponent,
+    SprayComponent,
+    FraganciaComponent,
+
 
   ],
   imports: [

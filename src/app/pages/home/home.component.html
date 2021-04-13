@@ -15,11 +15,8 @@
       <div id="inicio" class="col-md-12 text-center">
         <div class="input-group text-center rounded-left rounded-right">
 
-          <input type="text" class="text-center" #term placeholder="Ingrese el nombre o tipo de producto" (keyup.enter)="buscar(term.value)"
-            style="width: 78%; margin-bottom: 15px;" class="rounded-left">
-
-          <div class="section group rounded-right-lg"> <button (click)="buscar(term.value)">BUSCAR</button></div>
-        </div>
+          <input type="text" class="text-center" #term placeholder="Ingrese el nombre o tipo de producto" (keyup)="buscar(term.value)"
+            style="width: 100%; margin-bottom: 15px;" >
         <div class="loading text-center" *ngIf="loading">
           <div><i class="fas fa-spinner fa-spin" style="font-size: 60px;"></i></div>
         <div style="color: black;">
@@ -38,7 +35,7 @@
               <a (click)="verProducto(item.id)">
                 <img [src]="item.image" class="img-product" alt="item4"
                   style="width:100%; background-color:white !important"> </a>
-              <a href="https://wa.me/541137939664?text=Hola%quería%consultarte%sobre%{{item.message}}"><i class="fab fa-whatsapp" style="font-size: 15px;"></i></a>
+                  <a href="https://wa.me/541173661750?text=Hola,%20Mónica%20quería%20consultarte%20sobre%20{{item.message}}" style="background-color: green;"><i class="fab fa-whatsapp" style="font-size: 18px;"></i></a>
 
             </div>
           </div>
@@ -49,10 +46,10 @@
             <!-- <span class="amount item_price">{{item.price}}</span> -->
           </div>
         </div>
-
+        </div>
         <div class="clearfix"></div>
 
-        <div *ngIf="resultados.length >9" class="d-flex justify-content-center">
+        <div *ngIf="resultados.length >9" class="mt-4 d-flex justify-content-center">
           <pagination-controls previousLabel="Anterior" nextLabel="Siguiente" (pageChange)="onTableDataChange($event)">
           </pagination-controls>
 

@@ -11,7 +11,7 @@ export class InfoService {
       id: 0,
       uso: "Cara",
       name: "Set Milagroso TimeWise® Age Minimize 3D™",
-      message:"Set%Milagroso%TimeWise%Age%Minimize%3D",
+      message:"Set%20Milagroso%20TimeWise%20Age%20Minimize%203D",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -25,7 +25,7 @@ export class InfoService {
       id: 1,
       uso: "Cara",
       name: "Mascarilla Renovadora en Gel TimeWise",
-      message:"Mascarilla%Renovadora%en%Gel%TimeWise",
+      message:"Mascarilla%20Renovadora%20en%20Gel%20TimeWise",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -39,13 +39,13 @@ export class InfoService {
       id: 2,
       uso: "Cara",
       name: "Set de Microexfoliación Plus TimeWise®",
-      message:"Set%de%Microexfoliación%Plus%TimeWise",
+      message:"Set%20de%20Microexfoliación%20Plus%20TimeWise",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "Obtené la apariencia de piel más suave, joven y poros visiblemente más pequeños.",
       aplicacion: "Después de limpiar el rostro, aplicar una pequeña cantidad del Paso 1 Microexfoliante Refinador TimeWise con la punta de los dedos en el rostro húmedo. Exfoliar la piel realizando suaves movimientos circulares ascendentes, evitando el área de los ojos y los labios. Enjuagar a la perfección con agua tibia y secar la piel con palmaditas (cerrar los ojos al enjuagar). Usar la yema de los dedos para aplicar gentilmente el Paso 2. Minimizador de Poros TimeWise®. IMPORTANTE: Usar dos o tres veces a la semana, dejando pasar dos días entre cada aplicación. No utilizar el mismo día que una mascarilla. El Paso 2 se puede usar de modo independiente todos los días por las mañanas y las noches. La frecuencia de uso debe ser menor en las pieles delicadas.",
-      beneficios: "Beneficios inmediatos: Inmediatamente tu piel luce más joven y los poros más pequeños. Mejora dramáticamente la textura de la piel. Visiblemente mejora la apariencia de finas líneas de expresión. Da un efecto de alta definición a tu piel. Incluye: Microexfoliante Refinador TimeWise® 70g y Minimizador de Poros TimeWise ® 29ml. La transformación de tu piel comienza con el Microexfoliante Refinador. Su suave exfoliación refina de inmediato la textura de la piel a la vez que elimina de la superficie, las células de piel muerta y la acumulación en los poros. Los poros congestionados hacen que la pared de los mismos se dilate y cause que los poros luzcan distendidos y más grandes. Eliminar las impurezas atrapadas en los poros es un primer paso importante hacia mejorar su apariencia. Formulado con el ingrediente clave para exfoliar que utilizan los dermatólogos, el Microexfoliante refinador revela al instante un cutis de apariencia saludable con una sensación suave y revitalizada. Utilizarlo dos o tres veces por semana para un cutis bellamente refinado. Este suero nutritivo ayuda a calmar y reconfortar la piel al instante. Es el paso perfecto para después del Microexfoliante Refinador para reducir la apariencia de enrojecimiento y aliviar la piel delicada. Se puede utilizar todos los días, dos veces por día, para refinar la apariencia de poros dilatados con el tiempo y lograr un cutis visiblemente más terso y de apariencia impecable. Paso 1. Microexfoliante Refinador TimeWise®: Toda transformación de la piel comienza con una suave exfoliación. Ayuda a reducir la apariencia de líneas finas de expresión. Ayuda a refinar la textura de la piel al instante.Remueve las células muertas de la piel y la acumulación de suciedad en los poros.Paso 2. Minimizador de Poros TimeWise®:Ayuda a reducir significativamente los poros visibles para una piel con apariencia más suave.Deja una piel visiblemente más lisa. Con el uso continuo obtendrás mejores resultados.Reconforta la piel y ayuda a reducir el enrojecimeinto.Después de usar el Set de Microexfoliación Plus TimeWise® por sólo una semana: 87% notaron una mejoría notable en la piel. 82% Observaron significativamente la reducción de la apariencia de los poros. 78% Sintieron un cambio inmediato en la piel. 77% Observaron que su piel lucía una apariencia más joven.",
+      beneficios: "Beneficios inmediatos: Inmediatamente tu piel luce más joven y los poros más pequeños. Mejora dramáticamente la textura de la piel. Visiblemente mejora la apariencia de finas líneas de expresión. Da un efecto de alta definición a tu piel. Incluye: Microexfoliante Refinador TimeWise® 70g y Minimizador de Poros TimeWise ® 29ml. La transformación de tu piel comienza con el Microexfoliante Refinador. Su suave exfoliación refina de inmediato la textura de la piel a la vez que elimina de la superficie, las células de piel muerta y la acumulación en los poros. Los poros congestionados hacen que la pared de los mismos se dilate y cause que los poros luzcan distendidos y más grandes. Eliminar las impurezas atrapadas en los poros es un primer paso importante hacia mejorar su apariencia. Formulado con el ingrediente clave para exfoliar que utilizan los dermatólogos, el Microexfoliante refinador revela al instante un cutis de apariencia saludable con una sensación suave y revitalizada. Utilizarlo dos o tres veces por semana para un cutis bellamente refinado. Este suero nutritivo ayuda a calmar y reconfortar la piel al instante. Es el paso perfecto para después del Microexfoliante Refinador para reducir la apariencia de enrojecimiento y aliviar la piel delicada. Se puede utilizar todos los días, dos veces por día, para refinar la apariencia de poros dilatados con el tiempo y lograr un cutis visiblemente más terso y de apariencia impecable. Paso 1. Microexfoliante Refinador TimeWise®: Toda transformación de la piel comienza con una suave exfoliación. Ayuda a reducir la apariencia de líneas finas de expresión. Ayuda a refinar la textura de la piel al instante.Remueve las células muertas de la piel y la acumulación de suciedad en los poros.Paso 2. Minimizador de Poros TimeWise®:Ayuda a reducir significativamente los poros visibles para una piel con apariencia más suave.Deja una piel visiblemente más lisa. Con el uso continuo obtendrás mejores resultados.Reconforta la piel y ayuda a reducir el enrojecimeinto.Después de usar el Set de Microexfoliación Plus TimeWise® por sólo una semana: 87%20 notaron una mejoría notable en la piel. 82%20 Observaron significativamente la reducción de la apariencia de los poros. 78%20 Sintieron un cambio inmediato en la piel. 77%20 Observaron que su piel lucía una apariencia más joven.",
       image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/piel/producto14.jpg"
     }
     ,
@@ -53,11 +53,11 @@ export class InfoService {
       id: 3,
       uso: "Cara",
       name: "Suero Corrector de Tono Facial TimeWise®",
-      message:"Suero%Corrector%de%Tono%Facial%TimeWise",
+      message:"Suero%20Corrector%20de%20Tono%20Facial%20TimeWise",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
-      description: "Iguala visiblemente la apariencia del tono de la piel y ha demostrado clínicamente una mejora considerable en la luminosidad de la piel. • Se trata del primer e innovador avance para iluminar la piel con nuestro complejo Perfectly Bright™ (patente pendiente). • El 95% de las mujeres experimentó una reducción en el aspecto de las manchas oscuras después de 12 semanas*. *Los resultados son en base a las observaciones realizadas por un experto independiente en medición de la piel que evaluó la mejoría experimentada por 60 mujeres que usaron el producto 2 veces al día como parte de un estudio clínico independiente de 12 semanas",
+      description: "Iguala visiblemente la apariencia del tono de la piel y ha demostrado clínicamente una mejora considerable en la luminosidad de la piel. • Se trata del primer e innovador avance para iluminar la piel con nuestro complejo Perfectly Bright™ (patente pendiente). • El 95%20 de las mujeres experimentó una reducción en el aspecto de las manchas oscuras después de 12 semanas*. *Los resultados son en base a las observaciones realizadas por un experto independiente en medición de la piel que evaluó la mejoría experimentada por 60 mujeres que usaron el producto 2 veces al día como parte de un estudio clínico independiente de 12 semanas",
       aplicacion: "Si usás el Set Milagroso TimeWise®: DÍA . - 1 Limpiador 3 en 1 TimeWise. - 2 Líquido Refrescante Renovador TimeWise. - 3 Suero Corrector de Tono Facial TimeWise. - 4 Solución Diurna con FPS 35 AM TimeWise. - 5 Humectante Anti-Edad TimeWise. NOCHE . 1 - Demaquillador de Ojos Libre de Aceite. - 2 Limpiador 3 en 1 TimeWise. - 3 Líquido Refrescante Renovador TimeWise. - 4 Suero Corrector de Tono Facial TimeWise. - 5 Solución Nocturna PM TimeWise. Humectante Anti-Edad TimeWise. Si usás TimeWise Repair®: DÍA - 1 Espuma Limpiadora Facial Volu-Firm. - 2 Suero Corrector de Tono Facial TimeWise. - 3 Loción Facial Efecto Reafirmante Volu-Firm. - 4 Crema Facial para el Día Efecto Reparador FPS 30. - 5 Crema de Acción Renovadora para el Contorno de Ojos. NOCHE: - 1 Espuma Limpiadora Facial Volu-Firm. - 2 Suero Corrector de Tono Facial TimeWise. - 3 Loción Facial Efecto Reafirmante Volu-Firm. - 4 Crema Facial para Nocturna Efecto Reparador con Retinol Volu-Firm. - 5 Crema de Acción Renovadora para el Contorno de Ojos",
       beneficios: "¡3 BENEFICIOS EN UN SOLO PRODUCTO! Ayuda a reducir la apariencia de manchas oscuras.Ayuda a restaurar el tono natural de la piel para un color más uniforme.Brinda luminosidad a la piel gracias a su complejo Perfectly Bright™.",
       image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/rostro/correctores/producto5-2021.jpg"
@@ -67,7 +67,7 @@ export class InfoService {
       id: 4,
       uso: "Cara",
       name: "Humectante anti-edad Timewise",
-      message:"Humectante%anti-edad%Timewise",
+      message:"Humectante%20anti-edad%20Timewise",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -81,7 +81,7 @@ export class InfoService {
       id: 5,
       uso: "Cara",
       name: "Limpiador 3 en 1 Timewise",
-      message:"Limpiador%3%en%1%Timewise",
+      message:"Limpiador%203%20en%201%20Timewise",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -95,7 +95,7 @@ export class InfoService {
       id: 6,
       uso: "Cara",
       name: "Agua Micelar",
-      message:"Agua%Micelar",
+      message:"Agua%20Micelar",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -109,7 +109,7 @@ export class InfoService {
       id: 7,
       uso: "Cara",
       name: "Suero Regenerador C+E TimeWise",
-      message:"Suero%Regenerador%C%E%TimeWise",
+      message:"Suero%20Regenerador%20C%20E%20TimeWise",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -123,13 +123,13 @@ export class InfoService {
       id: 8,
       uso: "Contorno ojos",
       name: "Crema Renovadora para el Contorno de los Ojos Volufirm™",
-      message:"Crema%Renovadora%para%el%Contorno%de%los%Ojos%Volufirm",
+      message:"Crema%20Renovadora%20para%20el%20Contorno%20de%20los%20Ojos%20Volufirm",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La línea TimeWise Repair™ Volu-Firm™ es un régimen del Cuidado de la Piel científicamente innovador que combina la investigación extensa, ingredientes innovadores y pruebas amplias para entregar los beneficios pensados para contrarrestar las señales avanzadas del envejecimiento de la piel. La Crema de Acción Renovadora para el  Contorno de los Ojos Volu- Firm™ revive los ojos cansados y brinda una apariencia más estirada (“efecto lifting”).",
       aplicacion: "Presionar el tubo hasta que salga un poco de producto, deslizar el aplicador dando suaves masajes en el área de alrededor de los ojos, con movimientos hacia afuera. Su aplicador exclusivo fue diseñado para que se acople perfectamente a la forma del ojo. La suave punta de metal está diseñada para ayudar a influenciar la microcirculación al ofrecerle un suave masaje al área debajo de los ojos y ayudar a reducir la hinchazón. Tecnología de cristal líquido: La Crema de Acción Renovadora para el Contorno de los Ojos Volu-Firm™ ofrece un sistema único de entrega de cristal líquido que ayuda a mejorar la efectividad del producto. Se seleccionó este innovador sistema de entrega ya que la estructura de los cristales líquidos es parecida a la barrera de la piel y esto podría ayudar a que la piel sea más receptiva a los beneficios del producto.",
-      beneficios: "Se concentra en las líneas y arrugas profundas y la piel flácida. Se concentra en las bolsas, la hinchazón y las ojeras debajo de los ojos. Se concentra en la piel rugosa y reseca. Incrementa la humectación de la piel durante 12 horas. Cuenta con una innovadora tecnología de cristal líquido que mejora su efectividad. Después de una semana: Ayuda a reducir la apariencia de la piel rugosa: 74%. Ayuda a minimizar la apariencia de las ojeras y las bolsas debajo de los ojos: 68%. Después de dos semanas: Reafirma y tonifica la apariencia de piel flácida alrededor de los ojos:73%. Minimiza la apariencia de las arrugas profundas:70%. Restaura la apariencia de un (“efecto lifting”) juvenil: 71%. Después de cuatro semanas: Ayuda a reparar la apariencia de la piel: 85%. Reduce la apariencia de párpados caídos: 67% Resultados basados en un estudio independiente de cuatro semanas con consumidoras. Los resultados reflejan el porcentaje de mujeres que estuvo de acuerdo con la aseveración.",
+      beneficios: "Se concentra en las líneas y arrugas profundas y la piel flácida. Se concentra en las bolsas, la hinchazón y las ojeras debajo de los ojos. Se concentra en la piel rugosa y reseca. Incrementa la humectación de la piel durante 12 horas. Cuenta con una innovadora tecnología de cristal líquido que mejora su efectividad. Después de una semana: Ayuda a reducir la apariencia de la piel rugosa: 74%20. Ayuda a minimizar la apariencia de las ojeras y las bolsas debajo de los ojos: 68%20. Después de dos semanas: Reafirma y tonifica la apariencia de piel flácida alrededor de los ojos:73%20. Minimiza la apariencia de las arrugas profundas:70%20. Restaura la apariencia de un (“efecto lifting”) juvenil: 71%20. Después de cuatro semanas: Ayuda a reparar la apariencia de la piel: 85%20. Reduce la apariencia de párpados caídos: 67%20 Resultados basados en un estudio independiente de cuatro semanas con consumidoras. Los resultados reflejan el porcentaje de mujeres que estuvo de acuerdo con la aseveración.",
       image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/repair/producto2.jpg"
     }
     ,
@@ -137,13 +137,13 @@ export class InfoService {
       id: 9,
       uso: "Cara",
       name: "Crema Facial Nocturna Efecto Reparador Con Retinol Volu-Firm™",
-      message:"Crema%Facial%Nocturna%Efecto%Reparador%Con%Retinol%Volu-Firm",
+      message:"Crema%20Facial%20Nocturna%20Efecto%20Reparador%20Con%20Retinol%20Volu-Firm",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La línea TimeWise Repair™ Volu-Firm™ es un régimen del Cuidado de la Piel científicamente innovador que combina la investigación extensa, ingredientes innovadores y pruebas amplias para entregar los beneficios pensados para contrarrestar las señales avanzadas del envejecimiento de la piel. Reactiva la apariencia juvenil con retinol.",
       aplicacion: "Aplicar con los dedos en el rostro y cuello con generosos movimientos ascendentes y hacia afuera.",
-      beneficios: "La piel recobra su firmeza y se restaura un tono de piel uniforme.Inmediatamente duplica la hidratación de la piel y aumenta la humectación de la piel hasta por 12 horas.El Complejo Volu-Firm contiene las células madre de plantas y péptidos especializados que ayudan a proporcionar el catalizador para la renovación de la piel.Da una tersura visible a la piel del área del cuello.Ayuda a acelerar la renovación celular para revelar una piel de apariencia radiante.*.(*) Basado en datos científicos. Durante un estudio independiente con consumidoras†, la mayoría de las mujeres estuvieron de acuerdo en que las manchas de la edad eran menos notables, la textura de la piel mejoró drásticamente y el área del cuello lució visiblemente más tersa con líneas y arrugas visiblemente más suaves. Esto fue lo que dijeron: Ayuda a mejorar las señales avanzadas del envejecimiento: 76%. La piel recupera su firmeza: 71%. El área de la mandíbula tiene una apariencia más definida: 67%. Restaura la elasticidad juvenil: 81%. Restaura la uniformidad en el tono de la piel: 86%. Realza la apariencia general de la piel: 90%. Resultados basados en un estudio independiente de 4 semanas con consumidoras. Los resultados reflejan el porcentaje de mujeres que estuvieron de acuerdo con la afirmación. Además, la Crema Facial Nocturna Efecto Reparador con Retinol Volu-Firm: Ayuda a acelerar la renovación celular para revelar piel de apariencia radiante, de manera que las células más nuevas y juveniles suban a la superfice. Ayuda a proteger la integridad de la piel**. El retinol es conocido por influir en la síntesis del colágeno y la elastina, y por fomentar la comunicación celular. Ayuda a reducir la glicación*. La glicación es una reacción química que ocurre cuando moléculas de azúcar se adhieren a una proteína de la piel, como el colágeno y la elastina, y forman una proteína glicosilada. A medida que la piel envejece, el proceso de glicación se acelera y puede ocasionar flacidez, piel rugosa y arrugas más pronunciadas asociadas al envejecimiento avanzado de la piel.Ayuda a reponer la hidratación vital. Está formulada con un ingrediente botánico marino que se ha demostrado aumenta los niveles de AQP3 (Aquaporin 3)*. Las aquaporinas son proteínas de la piel que crean canales que permiten que el agua se conduzca a donde más se necesita para ayudar a mantener la piel hidratada.Ayuda a minimizar la actividad de las enzimas que producen pigmentos*. Está formulada con un extracto de regaliz que minimiza la actividad de la tirosinasa, la enzima crítica para la síntesis de melanina que puede causar manchas oscuras y un tono desparejo en la piel. *Basado en testeos in vitro de los ingredientes claves. ** Basado en datos científicos publicados.",
+      beneficios: "La piel recobra su firmeza y se restaura un tono de piel uniforme.Inmediatamente duplica la hidratación de la piel y aumenta la humectación de la piel hasta por 12 horas.El Complejo Volu-Firm contiene las células madre de plantas y péptidos especializados que ayudan a proporcionar el catalizador para la renovación de la piel.Da una tersura visible a la piel del área del cuello.Ayuda a acelerar la renovación celular para revelar una piel de apariencia radiante.*.(*) Basado en datos científicos. Durante un estudio independiente con consumidoras†, la mayoría de las mujeres estuvieron de acuerdo en que las manchas de la edad eran menos notables, la textura de la piel mejoró drásticamente y el área del cuello lució visiblemente más tersa con líneas y arrugas visiblemente más suaves. Esto fue lo que dijeron: Ayuda a mejorar las señales avanzadas del envejecimiento: 76%20. La piel recupera su firmeza: 71%20. El área de la mandíbula tiene una apariencia más definida: 67%20. Restaura la elasticidad juvenil: 81%20. Restaura la uniformidad en el tono de la piel: 86%20. Realza la apariencia general de la piel: 90%20. Resultados basados en un estudio independiente de 4 semanas con consumidoras. Los resultados reflejan el porcentaje de mujeres que estuvieron de acuerdo con la afirmación. Además, la Crema Facial Nocturna Efecto Reparador con Retinol Volu-Firm: Ayuda a acelerar la renovación celular para revelar piel de apariencia radiante, de manera que las células más nuevas y juveniles suban a la superfice. Ayuda a proteger la integridad de la piel**. El retinol es conocido por influir en la síntesis del colágeno y la elastina, y por fomentar la comunicación celular. Ayuda a reducir la glicación*. La glicación es una reacción química que ocurre cuando moléculas de azúcar se adhieren a una proteína de la piel, como el colágeno y la elastina, y forman una proteína glicosilada. A medida que la piel envejece, el proceso de glicación se acelera y puede ocasionar flacidez, piel rugosa y arrugas más pronunciadas asociadas al envejecimiento avanzado de la piel.Ayuda a reponer la hidratación vital. Está formulada con un ingrediente botánico marino que se ha demostrado aumenta los niveles de AQP3 (Aquaporin 3)*. Las aquaporinas son proteínas de la piel que crean canales que permiten que el agua se conduzca a donde más se necesita para ayudar a mantener la piel hidratada.Ayuda a minimizar la actividad de las enzimas que producen pigmentos*. Está formulada con un extracto de regaliz que minimiza la actividad de la tirosinasa, la enzima crítica para la síntesis de melanina que puede causar manchas oscuras y un tono desparejo en la piel. *Basado en testeos in vitro de los ingredientes claves. ** Basado en datos científicos publicados.",
       image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/repair/producto3.jpg"
     }
     ,
@@ -151,13 +151,13 @@ export class InfoService {
       id: 10,
       uso: "Cara",
       name: "Crema Facial para el día Efecto Reparador con Fps 30",
-      message:"Crema%Facial%para%el%día%Efecto%Reparador%con%Fps%30",
+      message:"Crema%20Facial%20para%20el%20día%20Efecto%20Reparador%20con%20Fps%2030",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La línea TimeWise Repair™ Volu-Firm™ es un régimen del Cuidado de la Piel científicamente innovador que combina la investigación extensa, ingredientes innovadores y pruebas amplias para entregar los beneficios pensados para contrarrestar las señales avanzadas del envejecimiento de la piel. La Crema Facial para el Día Efecto Reparador con FPS 30 resiste el envejecimiento como nunca antes.",
       aplicacion: "Aplicar con los dedos en el rostro y cuello con generosos movimientos ascendentes y hacia afuera.",
-      beneficios: "Ayuda a minimizar la apariencia de arrugas profundas.Ayuda a minimizar la reacción de la piel a agentes externos. *Después de 4 semanas† la mayoría de las mujeres estuvo de acuerdo con que la crema ayudó a mejorar la apariencia de la piel.El Complejo Volu-Firm contiene las células madre de plantas y péptidos especializados que ayudan a proporcionar el catalizador para la renovación de la piel.Inmediatamente triplica la hidratación de la piel y aumenta la humectación hasta por 12 horas.(*) Basado en pruebas in-vitro para ingredientes clave. Durante un estudio independiente con consumidoras†, la mayoría de las mujeres acordaron que la Crema Facial para el Día Efecto Reparador con FPS 30 Volu-Firm ayudó a que su piel se sintiera instantáneamente hidratada y aliviada; restauró la elasticidad juvenil de la piel y el área del cuello lució más firme. Esto fue lo que dijeron: Ayuda a minimizar la apariencia de arrugas profundas: 70%. Suaviza la apariencia rugosa del cuello: 74%. Restaura la elasticidad juvenil: 80%. Restaura la uniformidad en el tono de la piel: 82%. Resultados basados en un estudio independiente de 4 semanas con consumidoras. Los resultados reflejan el porcentaje de mujeres que estuvieron de acuerdo con la afirmación. Además, la Crema Facial para el Día Efecto Reparador con FPS 30 Volu-Firm: Ayuda a reducir la glicación. La glicación es una reacción química que ocurre cuando moléculas de azúcar se adhieren a una proteína de la piel, como el colágeno y la elastina, y forman una proteína glicosilada. A medida que la piel envejece, el proceso de glicación se acelera y puede ocasionar flacidez, piel rugosa y arrugas más pronunciadas asociadas al envejecimiento avanzado de la pielAyuda a minimizar la reacción de la piel a irritantes externos. A medida que la piel envejece, se torna más delgada y frágil y, por lo tanto, es más susceptible al daño y la resequedad. Esta crema está formulada con ingredientes diseñados para ayudar a reducir las proteínas asociadas al enrojecimiento para poder normalizar las reacciones de la piel a los agentes estresantes de la vida diaria.Ayuda a minimizar la actividad de las enzimas que producen pigmentos. Esta suntuosa crema está formulada con un ingrediente que minimiza la actividad de la tirosinasa*, la enzima crítica para la síntesis de melanina que puede causar manchas oscuras y un tono desparejo en la piel.Brinda protección de amplio espectro contra los daños causados por los rayos ultravioleta A y B. Los expertos concuerdan en que la exposición solar es la causa principal del envejecimiento en la piel. Esta fórmula ayuda a proteger contra los rayos ultravioleta A y B que causan quemaduras y envejecimiento en la piel y también es fotoestable, lo cual significa que la fórmula mantiene su integridad y poder protector aun después de exponerse a la luz solar. *Basado en testeos in vitro de los ingredientes claves.",
+      beneficios: "Ayuda a minimizar la apariencia de arrugas profundas.Ayuda a minimizar la reacción de la piel a agentes externos. *Después de 4 semanas† la mayoría de las mujeres estuvo de acuerdo con que la crema ayudó a mejorar la apariencia de la piel.El Complejo Volu-Firm contiene las células madre de plantas y péptidos especializados que ayudan a proporcionar el catalizador para la renovación de la piel.Inmediatamente triplica la hidratación de la piel y aumenta la humectación hasta por 12 horas.(*) Basado en pruebas in-vitro para ingredientes clave. Durante un estudio independiente con consumidoras†, la mayoría de las mujeres acordaron que la Crema Facial para el Día Efecto Reparador con FPS 30 Volu-Firm ayudó a que su piel se sintiera instantáneamente hidratada y aliviada; restauró la elasticidad juvenil de la piel y el área del cuello lució más firme. Esto fue lo que dijeron: Ayuda a minimizar la apariencia de arrugas profundas: 70%20. Suaviza la apariencia rugosa del cuello: 74%20. Restaura la elasticidad juvenil: 80%20. Restaura la uniformidad en el tono de la piel: 82%20. Resultados basados en un estudio independiente de 4 semanas con consumidoras. Los resultados reflejan el porcentaje de mujeres que estuvieron de acuerdo con la afirmación. Además, la Crema Facial para el Día Efecto Reparador con FPS 30 Volu-Firm: Ayuda a reducir la glicación. La glicación es una reacción química que ocurre cuando moléculas de azúcar se adhieren a una proteína de la piel, como el colágeno y la elastina, y forman una proteína glicosilada. A medida que la piel envejece, el proceso de glicación se acelera y puede ocasionar flacidez, piel rugosa y arrugas más pronunciadas asociadas al envejecimiento avanzado de la pielAyuda a minimizar la reacción de la piel a irritantes externos. A medida que la piel envejece, se torna más delgada y frágil y, por lo tanto, es más susceptible al daño y la resequedad. Esta crema está formulada con ingredientes diseñados para ayudar a reducir las proteínas asociadas al enrojecimiento para poder normalizar las reacciones de la piel a los agentes estresantes de la vida diaria.Ayuda a minimizar la actividad de las enzimas que producen pigmentos. Esta suntuosa crema está formulada con un ingrediente que minimiza la actividad de la tirosinasa*, la enzima crítica para la síntesis de melanina que puede causar manchas oscuras y un tono desparejo en la piel.Brinda protección de amplio espectro contra los daños causados por los rayos ultravioleta A y B. Los expertos concuerdan en que la exposición solar es la causa principal del envejecimiento en la piel. Esta fórmula ayuda a proteger contra los rayos ultravioleta A y B que causan quemaduras y envejecimiento en la piel y también es fotoestable, lo cual significa que la fórmula mantiene su integridad y poder protector aun después de exponerse a la luz solar. *Basado en testeos in vitro de los ingredientes claves.",
       image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/repair/producto4.jpg"
     }
     ,
@@ -165,13 +165,13 @@ export class InfoService {
       id: 11,
       uso: "Cara y Cuello",
       name: "Espuma Limpiadora Facial Volu-Firm",
-      message:"Espuma%Limpiadora%Facial%Volu-Firm",
+      message:"Espuma%20Limpiadora%20Facial%20Volu-Firm",
       type: "Limpiadora",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La línea TimeWise Repair™ Volu-Firm™ es un régimen del Cuidado de la Piel científicamente innovador que combina la investigación extensa, ingredientes innovadores y pruebas amplias para entregar los beneficios pensados para contrarrestar las señales avanzadas del envejecimiento de la piel. La Espuma Limpiadora Facial Volu-Firm revitaliza, renueva y va más allá de limpiar la piel.",
       aplicacion: "Aplicar un poco de la fórmula en las manos y mezclar con agua hasta crear espuma. Emplear en el rostro y cuello masajeando suavemente. Evitar el área de los ojos y la boca. Después de unos minutos enjuagar la piel con agua tibia.",
-      beneficios: "La espuma rica en humectación ayuda a renovar el resplandor de la piel y su textura. La piel se siente suave como la de un bebé, nutrida y lista para el siguiente paso del régimen TimeWise RepairTM. El Complejo Volu-Firm contiene las células madre de plantas y péptidos especializados que ayudan a proporcionar el catalizador para la renovación de la piel. Mantiene el balance de humectación y deja los poros con una apariencia menos visible. Deja la piel sintiéndose elástica. Además, Limpia la piel profundamente sin dejarla sintiéndose despojada. Ayuda a brindarle una limpieza profunda al cutis y a la vez lo trata con la suavidad que necesita y merece. Está diseñado para ayudar a la piel a retener sus lípidos naturales para que la piel se sienta suave, tersa y maravillosamente humectada.Ayuda a proteger la barrera de la piel. Ayuda a eliminar las células muertas que se acumula, tapan los poros y disminuyen su resplandor. Al eliminar las células muertas de la capa externa de la piel, las células nuevas y más jóvenes pueden subir a la superficie. De esta manera, ayuda a proteger la barrera de la piel, un beneficio crítico a medida que la piel envejece y es cuando la superficie externa de la piel puede estar en peligro más fácilmente. Luego de una semana de usar la Espuma Limpiadora Facial Volu-Firm, la mayoría de las mujeres estuvieron de acuerdo en que ilumina la piel, se siente rica y suave y deja la piel perfectamente preparada para el paso siguiente. A continuación, comentarios adicionales que hicieron: Mantiene el balance de humectación: 86%. Renueva el resplandor de la piel: 87%. La piel se siente más elástica: 89%. Deja la piel sintiéndose consentida: 90%. Resultados basados en un estudio independiente de 1 semana con consumidoras. Los resultados reflejan el porcentaje de mujeres que estuvo de acuerdo con la afirmación.",
+      beneficios: "La espuma rica en humectación ayuda a renovar el resplandor de la piel y su textura. La piel se siente suave como la de un bebé, nutrida y lista para el siguiente paso del régimen TimeWise RepairTM. El Complejo Volu-Firm contiene las células madre de plantas y péptidos especializados que ayudan a proporcionar el catalizador para la renovación de la piel. Mantiene el balance de humectación y deja los poros con una apariencia menos visible. Deja la piel sintiéndose elástica. Además, Limpia la piel profundamente sin dejarla sintiéndose despojada. Ayuda a brindarle una limpieza profunda al cutis y a la vez lo trata con la suavidad que necesita y merece. Está diseñado para ayudar a la piel a retener sus lípidos naturales para que la piel se sienta suave, tersa y maravillosamente humectada.Ayuda a proteger la barrera de la piel. Ayuda a eliminar las células muertas que se acumula, tapan los poros y disminuyen su resplandor. Al eliminar las células muertas de la capa externa de la piel, las células nuevas y más jóvenes pueden subir a la superficie. De esta manera, ayuda a proteger la barrera de la piel, un beneficio crítico a medida que la piel envejece y es cuando la superficie externa de la piel puede estar en peligro más fácilmente. Luego de una semana de usar la Espuma Limpiadora Facial Volu-Firm, la mayoría de las mujeres estuvieron de acuerdo en que ilumina la piel, se siente rica y suave y deja la piel perfectamente preparada para el paso siguiente. A continuación, comentarios adicionales que hicieron: Mantiene el balance de humectación: 86%20. Renueva el resplandor de la piel: 87%20. La piel se siente más elástica: 89%20. Deja la piel sintiéndose consentida: 90%20. Resultados basados en un estudio independiente de 1 semana con consumidoras. Los resultados reflejan el porcentaje de mujeres que estuvo de acuerdo con la afirmación.",
       image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/repair/producto5.jpg"
     }
     ,
@@ -179,7 +179,7 @@ export class InfoService {
       id: 12,
       uso: "Cara",
       name: "Mascarilla de Biocelulosa TimeWise Repair",
-      message:"Mascarilla%de%Biocelulosa%TimeWise%Repair",
+      message:"Mascarilla%20de%20Biocelulosa%20TimeWise%20Repair",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -193,7 +193,7 @@ export class InfoService {
       id: 13,
       uso: "Cara",
       name: "Gel Facial Efecto Peeling TimeWise Repair®",
-      message:"Gel%Facial%Efecto%Peeling%TimeWise%Repair%",
+      message:"Gel%20Facial%20Efecto%20Peeling%20TimeWise%20Repair%20",
       type: "Gel",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -207,13 +207,13 @@ export class InfoService {
       id: 14,
       uso: "Cara",
       name: "Loción Facial Efecto Reafimante TimeWise Repair® Volu-Firm",
-      message:"Loción%Facial%Efecto%Reafimante%TimeWise%Repair%Volu-Firm",
+      message:"Loción%20Facial%20Efecto%20Reafimante%20TimeWise%20Repair%20Volu-Firm",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La Loción Facial Efecto Reafimante TimeWise Repair® Volu-Firm® contiene el mismo Complejo Volu-Firm® que se encuentra en la Rutina de Cuidado de la Piel de todos los productos TimeWise® Repair. Además, tiene dos nuevas generaciones de ingredientes con elementos enfocados en mantener el aspecto joven, la firmeza, elasticidad y el volumen de la piel. El innovador envase incluye una función de bloqueo giratorio y dosificador al vacío, ¡para asegurar que obtengas hasta la última gota de este poderoso suero! También tiene una ventana en el envase para que sepas cuándo es tiempo de renovar el producto.",
       aplicacion: "MAÑANA: -1 Espuma Limpiadora Facial TimeWise Repair® Volu-Firm®. -2  Loción Facial Efecto Reafimante TimeWise Repair® Volu-Firm® -3 Crema de Día Timewise Repair® Volu-Firm® con FPS 30 (SIN PROTECCION ALTA) -4 Crema de Acción Renovadora de Ojos TimeWise Repair® Volu-Firm®. NOCHE: -1 Espuma Limpiadora Facial TimeWise Repair® Volu-Firm® -2 Loción Facial Efecto Reafimante TimeWise Repair® Volu-Firm® -3 Tratamiento de Noche con Retinol TimeWise Repair® Volu-Firm® -4 Crema de Noche con Retinol TimeWise Repair® Volu-Firm®. (CREMA NO TRATAMIENTO)",
-      beneficios: "Mediante el uso de múltiples métodos de pruebas, incluyendo imagen facial 3D de vanguardia, probamos la Loción Facial Efecto Reafimante TimeWise Repair® Volu-Firm®desde cada ángulo para mostrar cómo ayuda a recuperar tu triángulo de la juventud. Los resultados hablan por sí mismos; estos impresionantes números reflejan el porcentaje de panelistas que mostraron mejoría:Mostró una mejora en la piel de las mejillas y la mandíbula* 100%. La piel luce visiblemente más radiante: 98%. Mostró una mejoría en la firmeza de la piel: 82%. Mostró una reducción visible en las líneas profundas y arrugas: 98%. Mostró una mejoría en la elasticidad de la piel: 78%. Mostró un incremento en la humectación de la piel: 100%. *Según un estudio clínico independiente de 12 semanas en el cual 45 mujeres usaron el suero dos veces al día. Los porcentajes reflejan la cantidad de mujeres que mostraron mejoría. *Según pruebas bio-instrumentales. El número refleja el porcentaje de panelistas que mostraron mejoría.",
+      beneficios: "Mediante el uso de múltiples métodos de pruebas, incluyendo imagen facial 3D de vanguardia, probamos la Loción Facial Efecto Reafimante TimeWise Repair® Volu-Firm®desde cada ángulo para mostrar cómo ayuda a recuperar tu triángulo de la juventud. Los resultados hablan por sí mismos; estos impresionantes números reflejan el porcentaje de panelistas que mostraron mejoría:Mostró una mejora en la piel de las mejillas y la mandíbula* 100%20. La piel luce visiblemente más radiante: 98%20. Mostró una mejoría en la firmeza de la piel: 82%20. Mostró una reducción visible en las líneas profundas y arrugas: 98%20. Mostró una mejoría en la elasticidad de la piel: 78%20. Mostró un incremento en la humectación de la piel: 100%20. *Según un estudio clínico independiente de 12 semanas en el cual 45 mujeres usaron el suero dos veces al día. Los porcentajes reflejan la cantidad de mujeres que mostraron mejoría. *Según pruebas bio-instrumentales. El número refleja el porcentaje de panelistas que mostraron mejoría.",
       image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/repair/producto8.jpg"
     }
     ,
@@ -221,7 +221,7 @@ export class InfoService {
       id: 15,
       uso: "Cara y cuello",
       name: "Gel Limpiador Mary Kay® Botanical Effects®",
-      message:"Gel%Limpiador%Mary%Kay%Botanical%Effects",
+      message:"Gel%20Limpiador%20Mary%20Kay%20Botanical%20Effects",
       type: "Gel",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -235,7 +235,7 @@ export class InfoService {
       id: 16,
       uso: "Cara",
       name: "Mascarilla Exfoliante Mary Kay Botanical Effects",
-      message:"Mascarilla%Exfoliante%Mary%Kay%Botanical%Effects",
+      message:"Mascarilla%20Exfoliante%20Mary%20Kay%20Botanical%20Effects",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -249,7 +249,7 @@ export class InfoService {
       id: 17,
       uso: "Cara",
       name: "Tónico Facial Refrescante Mary Kay Botanical Effects",
-      message:"Tónico%Facial%Refrescante%Mary%Kay%Botanical%Effects",
+      message:"Tónico%20Facial%20Refrescante%20Mary%20Kay%20Botanical%20Effects",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -263,7 +263,7 @@ export class InfoService {
       id: 18,
       uso: "Cara",
       name: "Gel Humectante Mary Kay Botanical Effects",
-      message:"Gel%Humectante%Mary%Kay%Botanical%Effects",
+      message:"Gel%20Humectante%20Mary%20Kay%20Botanical%20Effects",
       type: "Gel",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -277,7 +277,7 @@ export class InfoService {
       id: 19,
       uso: "Cara",
       name: "Loción Humectante Facial FPS 30 Mary Kay Botanical Effects",
-      message:"Loción%Humectante%Facial%FPS%30%Mary%Kay%Botanical%Effects",
+      message:"Loción%20Humectante%20Facial%20FPS%2030%20Mary%20Kay%20Botanical%20Effects",
       type: "Locion",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -291,7 +291,7 @@ export class InfoService {
       id: 20,
       uso: "Cara",
       name: "Petite Palette Mary Kay",
-      message:"Petite%Palette%Mary%Kay",
+      message:"Petite%20Palette%20Mary%20Kay",
       type: "Sombra",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -305,8 +305,8 @@ export class InfoService {
       id: 21,
       uso: "Cara",
       name: "Set de Brochas",
-      message:"Set%de%Brochas",
-      type: "brocha",
+      message:"Set%20de%20Brochas",
+      type: "Brocha",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "El Set de Brochas con Estuche Mary Kay® incluye cinco brochas de la más alta calidad, perfectas para crear multíples looks. Además podrás guardarlas en su Estuche para llevarlas a donde sea que vayas.",
@@ -319,8 +319,8 @@ export class InfoService {
       id: 22,
       uso: "Cara",
       name: "Brocha para Polvo",
-      message:"Brocha%para%Polvo",
-      type: "brocha",
+      message:"Brocha%20para%20Polvo",
+      type: "Brocha",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La Brocha para Polvos La brocha para polvos te permite conseguir un acabado impecable en un abrir y cerrar de ojos gracias a su precisa forma de domo.",
@@ -333,8 +333,8 @@ export class InfoService {
       id: 23,
       uso: "Cara",
       name: "Brocha para Rubor Compacto",
-      message:"Brocha%para%Rubor%Compacto",
-      type: "brocha",
+      message:"Brocha%20para%20Rubor%20Compacto",
+      type: "Brocha",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La brocha perfecta para aplicar el Rubor Mary Kay Chromafusion™, el Polvo para el Contorno del Rostro Mary Kay Chromafusion™ y el Iluminador Mary Kay Chromafusion™.",
@@ -347,8 +347,8 @@ export class InfoService {
       id: 24,
       uso: "Cara",
       name: "Brocha para Base de Maquillaje Líquida",
-      message:"Brocha%para%Base%de%Maquillaje%Líquida",
-      type: "brocha",
+      message:"Brocha%20para%20Base%20de%20Maquillaje%20Líquida",
+      type: "Brocha",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La Brocha para Base de Maquillaje Líquida Mary Kay® te permite conseguir la cobertura deseada con tu base de maquillaje. Gracias a su forma angular, permite llegar a todas las zonas del rostro.",
@@ -361,8 +361,8 @@ export class InfoService {
       id: 25,
       uso: "Cara",
       name: "Brocha para Polvo Compacto",
-      message:"Brocha%para%Polvo%Compacto",
-      type: "brocha",
+      message:"Brocha%20para%20Polvo%20Compacto",
+      type: "Brocha",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La Brocha para Polvo Compacto es perfecta para una cobertura ligera de los Polvos Chromafusion Mary Kay®.",
@@ -375,8 +375,8 @@ export class InfoService {
       id: 26,
       uso: "Cara",
       name: "Brocha para Rubor Compacto",
-      message:"Brocha%para%Rubor%Compacto",
-      type: "brocha",
+      message:"Brocha%20para%20Rubor%20Compacto",
+      type: "Brocha",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La brocha perfecta para aplicar el Rubor Mary Kay Chromafusion™, el Polvo para el Contorno del Rostro Mary Kay Chromafusion™ y el Iluminador Mary Kay Chromafusion™.",
@@ -389,8 +389,8 @@ export class InfoService {
       id: 27,
       uso: "Cara",
       name: "Brocha Oval para Maquillaje Mary Kay",
-      message:"Brocha%Oval%para%Maquillaje%Mary%Kay",
-      type: "brocha",
+      message:"Brocha%20Oval%20para%20Maquillaje%20Mary%20Kay",
+      type: "Brocha",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La Brocha Oval para Maquillaje Mary Kay ayuda a aplicar la Base de manera uniforme de forma muy rápida y sencilla.",
@@ -403,8 +403,8 @@ export class InfoService {
       id: 28,
       uso: "Cara",
       name: "Esponja para Maquillaje Mary Kay",
-      message:"Esponja%para%Maquillaje%Mary%Kay",
-      type: "brocha",
+      message:"Esponja%20para%20Maquillaje%20Mary%20Kay",
+      type: "Brocha",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "Esta herramienta versátil y reutilizable puede ayudarlo a lograr un acabado impecable.",
@@ -417,8 +417,8 @@ export class InfoService {
       id: 29,
       uso: "Cara",
       name: "Esponjas Cosméticas x 2",
-      message:"Esponjas%Cosméticas%x%2",
-      type: "brocha",
+      message:"Esponjas%20Cosméticas%20x%202",
+      type: "Brocha",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La línea del Cuidado de la Piel Botanical Effects® es el primer paso para conseguir una piel radiante y nutrida. - Ingredientes que proporcionan beneficios esenciales. Extractos de Pitaya se unen al Aloe Vera, famosa desde hace siglos, aportando antioxidantes a cada uno de los productos. - Un cuidado de la piel simple y fácil de utilizar, que no frenará tu estilo de vida. - Resultados increíbles. ",
@@ -431,8 +431,8 @@ export class InfoService {
       id: 30,
       uso: "Cara",
       name: "Perfect Palette Mary Kay",
-      message:"Perfect%Palette%Mary%Kay",
-      type: "brocha",
+      message:"Perfect%20Palette%20Mary%20Kay",
+      type: "Brocha",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "La línea del Cuidado de la Piel Botanical Effects® es el primer paso para conseguir una piel radiante y nutrida. - Ingredientes que proporcionan beneficios esenciales. Extractos de Pitaya se unen al Aloe Vera, famosa desde hace siglos, aportando antioxidantes a cada uno de los productos. - Un cuidado de la piel simple y fácil de utilizar, que no frenará tu estilo de vida. - Resultados increíbles. ",
@@ -445,7 +445,7 @@ export class InfoService {
       id: 31,
       uso: "Cara",
       name: "Rubores Compactos Mary Kay Chromafusion",
-      message:"Rubores%Compactos%Mary%Kay%Chromafusion",
+      message:"Rubores%20Compactos%20Mary%20Kay%20Chromafusion",
       type: "rubor",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -459,7 +459,7 @@ export class InfoService {
       id: 32,
       uso: "Cara",
       name: "Polvo para el Contorno de Rostro Mary Kay Chromafusion Latte",
-      message:"Polvo%para%el%Contorno%de%Rostro%Mary%Kay%Chromafusion%Latte",
+      message:"Polvo%20para%20el%20Contorno%20de%20Rostro%20Mary%20Kay%20Chromafusion%20Latte",
       type: "rubor",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -473,7 +473,7 @@ export class InfoService {
       id: 33,
       uso: "Cara",
       name: "Iluminador para el Rostro Mary KAy Chromafusion Glazed",
-      message:"Iluminador%para%el%Rostro%Mary%KAy%Chromafusion%Glazed",
+      message:"Iluminador%20para%20el%20Rostro%20Mary%20KAy%20Chromafusion%20Glazed",
       type: "rubor",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -487,8 +487,8 @@ export class InfoService {
       id: 34,
       uso: "Ojos",
       name: "Sombras Compactas para Párpados Mary Kay Chromafusion",
-      message:"Sombras%Compactas%para%Párpados%Mary%Kay%Chromafusion",
-      type: "sombra",
+      message:"Sombras%20Compactas%20para%20Párpados%20Mary%20Kay%20Chromafusion",
+      type: "Sombra",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "Esta sombra de ojos rica en pigmentos y de color duradero, viene en un espectro de tonos sensacionales y se mantiene resistente durante 12 horas. Nueva línea de pigmentos con acabado mate o brilloso creados por los mejores maquilladores y evaluados en una amplia gama de tonos de piel",
@@ -501,7 +501,7 @@ export class InfoService {
       id: 35,
       uso: "Cara",
       name: "Trio de Sombras Mary Kay at Play®",
-      message:"Trio%de%Sombras%Mary%Kay%at%Play",
+      message:"Trio%20de%20Sombras%20Mary%20Kay%20at%20Play",
       type: "Sombra",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -515,7 +515,7 @@ export class InfoService {
       id: 36,
       uso: "Ojos",
       name: "Corrector Iluminador para Ojos Mary Kay®",
-      message:"Corrector%Iluminador%para%Ojos%Mary%Kay",
+      message:"Corrector%20Iluminador%20para%20Ojos%20Mary%20Kay",
       type: "Corrector",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -529,7 +529,7 @@ export class InfoService {
       id: 37,
       uso: "Ojos",
       name: "Delineador Líquido en Plumón para Ojos Mary Kay®",
-      message:"Delineador%Líquido%en%Plumón%para%Ojos%Mary%Kay",
+      message:"Delineador%20Líquido%20en%20Plumón%20para%20Ojos%20Mary%20Kay",
       type: "Delineador",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -543,7 +543,7 @@ export class InfoService {
       id: 38,
       uso: "Ojos",
       name: "Lápiz Delineador para Ojos Mary Kay®",
-      message:"Lápiz%Delineador%para%Ojos%Mary%Kay",
+      message:"Lápiz%20Delineador%20para%20Ojos%20Mary%20Kay",
       type: "Delineador",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -557,7 +557,7 @@ export class InfoService {
       id: 39,
       uso: "Ojos",
       name: "Lápiz Delineador para Ojos en Gel",
-      message:"Lápiz%Delineador%para%Ojos%en%Gel",
+      message:"Lápiz%20Delineador%20para%20Ojos%20en%20Gel",
       type: "Delineador",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -571,11 +571,11 @@ export class InfoService {
       id: 40,
       uso: "Ojos",
       name: "Máscara para Pestañas Lash Intensity Mary Kay",
-      message:"Máscara%para%Pestañas%Lash%Intensity%Mary%Kay",
+      message:"Máscara%20para%20Pestañas%20Lash%20Intensity%20Mary%20Kay",
       type: "Delineador",
       price: 1000,
       link: "https://www.facebook.com/",
-      description: "MAGNIFICA, MAXIMIZA Y MULTIPLICA TUS PESTAÑAS. • Amplificá y alargá tus pestañas de manera irresistible, con la Máscara que definirá la forma de lucir tus pestañas. • Experimentá 84% PESTAÑAS MÁS LARGAS y 200% MÁS VOLUMEN. • Cepillo con doble impacto para una mejor aplicación. • Con vitaminas y emolientes que ayudan a reforzar y evitar el quiebre de las pestañas.",
+      description: "MAGNIFICA, MAXIMIZA Y MULTIPLICA TUS PESTAÑAS. • Amplificá y alargá tus pestañas de manera irresistible, con la Máscara que definirá la forma de lucir tus pestañas. • Experimentá 84%20 PESTAÑAS MÁS LARGAS y 200%20 MÁS VOLUMEN. • Cepillo con doble impacto para una mejor aplicación. • Con vitaminas y emolientes que ayudan a reforzar y evitar el quiebre de las pestañas.",
       aplicacion: "Colocá el cepillo en la raíz de las pestañas y usa un movimiento de lado a lado mientras lo deslizas a lo largo de las pestañas. A continuación, da la vuelta al cepillo 180 grados y deslízalo de la raíz a la punta para que las dos zonas del cepillo peinen las pestañas.",
       beneficios: "La Máscara Lash Intensity® te dará el volumen, y el largo irresistible que, magnificará, maximizará y multiplicará la forma de verse de tus pestañas. Su pigmento rico en minerales, ofrece el tono perfecto para que tus pestañas luzcan siempre destacadas.",
       image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/mascaras/producto4.jpg"
@@ -585,13 +585,13 @@ export class InfoService {
       id: 41,
       uso: "Ojos",
       name: "Máscara para Pestañas Lash Love a prueba de agua",
-      message:"Máscara%para%Pestañas%Lash%Love%a%prueba%de%agua",
+      message:"Máscara%20para%20Pestañas%20Lash%20Love%20a%20prueba%20de%20agua",
       type: "Delineador",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "Define, defiende y brinda un volumen significativo a las pestañas sin lucir exageradas. Con la Máscara para Pestañas Lash Love® a Prueba de Agua Mary Kay®, tus pestañas lucirán con más volumen al instante, sin grumos y con una apariencia natural. Además su fórmula es a prueba de agua y lágrimas.",
       aplicacion: "Sacar el cepillo aplicador del tubo, sin girar o presionar. Peinar suavemente las pestañas de un lado a otro, comenzando por la base de las mismas. Luego, aplicar en las pestañas inferiores de la misma forma. Para dar una apariencia de mayor volumen y pestañas multiplicadas, aplicar una o dos capas adicionales, dejando secar unos segundos entre cada aplicación. Importante: No bombear el tubo para evitar el ingreso de aire y que la Máscara se seque antes de tiempo.",
-      beneficios: "En un estudio independiente con consumidoras que usaron la Mascara para Pestañas Lash Love® a Prueba de Agua durante siete días, se obtuvieron los siguientes resultados: 90% mencionó que las pestañas lucían definidas y se sentían naturales, no pesadas, 90% mencionó que duró todo el día, sin formar grumos ni manchas, 89% dijo que las pestañas lucían más levantadas, 85% mencionó que sus pestañas lucían separadas y multiplicadas. Además también mencionaron que sus pestañas se mantuvieron en buen estado a pesar del sudor, la lluvia, las lágrimas, la humedad y el agua de la pileta y del mar.",
+      beneficios: "En un estudio independiente con consumidoras que usaron la Mascara para Pestañas Lash Love® a Prueba de Agua durante siete días, se obtuvieron los siguientes resultados: 90%20 mencionó que las pestañas lucían definidas y se sentían naturales, no pesadas, 90%20 mencionó que duró todo el día, sin formar grumos ni manchas, 89%20 dijo que las pestañas lucían más levantadas, 85%20 mencionó que sus pestañas lucían separadas y multiplicadas. Además también mencionaron que sus pestañas se mantuvieron en buen estado a pesar del sudor, la lluvia, las lágrimas, la humedad y el agua de la pileta y del mar.",
       image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/mascaras/producto1.jpg"
     }
     ,
@@ -599,13 +599,13 @@ export class InfoService {
       id: 42,
       uso: "Ojos",
       name: "Máscara para Pestañas Lash Love Mary Kay",
-      message:"Máscara%para%Pestañas%Lash%Love%Mary%Kay",
+      message:"Máscara%20para%20Pestañas%20Lash%20Love%20Mary%20Kay",
       type: "Delineador",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "Define, defiende y brinda un volumen significativo a las pestañas sin lucir exageradas. Con la Máscara para Pestañas Lash Love® a Prueba de Agua Mary Kay®, tus pestañas lucirán con más volumen al instante, sin grumos y con una apariencia natural. Además su fórmula es a prueba de agua y lágrimas.",
       aplicacion: "Sacar el cepillo aplicador del tubo, sin girar o presionar. Peinar suavemente las pestañas de un lado a otro, comenzando por la base de las mismas. Luego, aplicar en las pestañas inferiores de la misma forma. Para dar una apariencia de mayor volumen y pestañas multiplicadas, aplicar una o dos capas adicionales, dejando secar unos segundos entre cada aplicación. Importante: No bombear el tubo para evitar el ingreso de aire y que la Máscara se seque antes de tiempo.",
-      beneficios: "Pestañas de apariencia más voluminosa y arqueadas. Brinda un look perfectamente natural, suave y saludable a las pestañas.En un estudio independiente de consumidoras*, las mujeres que usaron el rímel Mary Kay® Lash Love™ por siete días, ¡quedaron fascinadas! De hecho, la mayoría de las mujeres dijeron que ¡duró por 10 horas o más! Y de 3 a 4 mujeres dijeron que no vieron ¡nada de grumos! Las pruebas también mostraron que la fórmula no se corrió aun con la humedad lagrimal ni después de hacer ejercicio. A continuación los comentarios adicionales que hicieron: 90% dijo que duró todo el día sin desprender polvillo sobre las mejillas ni emborronarse. 90% dijo que sus pestañas lucían definidas y se sentían naturales y no pesadas. 89% dijo que sus pestañas lucían levantadas. 85% dijo que las pestañas lucían separadas y multiplicadas*Estudio conducido por una compañía de investigaciones independiente",
+      beneficios: "Pestañas de apariencia más voluminosa y arqueadas. Brinda un look perfectamente natural, suave y saludable a las pestañas.En un estudio independiente de consumidoras*, las mujeres que usaron el rímel Mary Kay® Lash Love™ por siete días, ¡quedaron fascinadas! De hecho, la mayoría de las mujeres dijeron que ¡duró por 10 horas o más! Y de 3 a 4 mujeres dijeron que no vieron ¡nada de grumos! Las pruebas también mostraron que la fórmula no se corrió aun con la humedad lagrimal ni después de hacer ejercicio. A continuación los comentarios adicionales que hicieron: 90%20 dijo que duró todo el día sin desprender polvillo sobre las mejillas ni emborronarse. 90%20 dijo que sus pestañas lucían definidas y se sentían naturales y no pesadas. 89%20 dijo que sus pestañas lucían levantadas. 85%20 dijo que las pestañas lucían separadas y multiplicadas*Estudio conducido por una compañía de investigaciones independiente",
       image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/ojos/mascaras/producto2.jpg"
     }
     ,
@@ -613,7 +613,7 @@ export class InfoService {
       id: 43,
       uso: "Ojos",
       name: "Máscara para Pestañas de máximo desempeño Mary Kay",
-      message:"Máscara%para%Pestañas%de%máximo%desempeño%Mary%Kay",
+      message:"Máscara%20para%20Pestañas%20de%20máximo%20desempeño%20Mary%20Kay",
       type: "Delineador",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -627,7 +627,7 @@ export class InfoService {
       id: 44,
       uso: "Ojos",
       name: "Lápiz Delineador para Cejas",
-      message:"Lápiz%Delineador%para%Cejas",
+      message:"Lápiz%20Delineador%20para%20Cejas",
       type: "Delineador",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -641,7 +641,7 @@ export class InfoService {
       id: 45,
       uso: "Ojos",
       name: "Gel Voluminizador para Cejas Mary Kay",
-      message:"Gel%Voluminizador%para%Cejas%Mary%Kay",
+      message:"Gel%20Voluminizador%20para%20Cejas%20Mary%20Kay",
       type: "Delineador",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -655,8 +655,8 @@ export class InfoService {
       id: 46,
       uso: "Ojos",
       name: "Sombras Líquidas para Ojos",
-      message:"Sombras%Líquidas%para%Ojos",
-      type: "Delineador",
+      message:"Sombras%20Líquidas%20para%20Ojos",
+      type: "Sombra",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "Iluminá tus Párpados. Dejate atrapar por una oleada de color con un aplicador fácil de usar, para obtener un ojo único",
@@ -669,7 +669,7 @@ export class InfoService {
       id: 47,
       uso: "Ojos",
       name: "Lápiz Delineador para Ojos Mary Kay At Play",
-      message:"Lápiz%Delineador%para%Ojos%Mary%Kay%At%Play",
+      message:"Lápiz%20Delineador%20para%20Ojos%20Mary%20Kay%20At%20Play",
       type: "Delineador",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -683,7 +683,7 @@ export class InfoService {
       id: 48,
       uso: "Labios",
       name: "Labial Líquido Mate Mary Kay at Play®",
-      message:"Labial%Líquido%Mate%Mary%Kay%at%Play",
+      message:"Labial%20Líquido%20Mate%20Mary%20Kay%20at%20Play",
       type: "Labial",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -697,7 +697,7 @@ export class InfoService {
       id: 49,
       uso: "Labios",
       name: "Lápiz Labial Semi Shine",
-      message:"Lápiz%Labial%Semi%Shine",
+      message:"Lápiz%20Labial%20Semi%20Shine",
       type: "Labial",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -711,7 +711,7 @@ export class InfoService {
       id: 50,
       uso: "Labios",
       name: "Lapiz Labial Semi Mate",
-      message:"Lapiz%Labial%Semi%Mate",
+      message:"Lapiz%20Labial%20Semi%20Mate",
       type: "Labial",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -725,13 +725,13 @@ export class InfoService {
       id: 51,
       uso: "Labios",
       name: "Brillo para Labios NouriShine Plus",
-      message:"Brillo%para%Labios%NouriShine%Plus",
+      message:"Brillo%20para%20Labios%20NouriShine%20Plus",
       type: "Labial",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "Con el Brillo Labial NouriShine Plus Mary Kay® obtenés el brillo que deseás, y además obtendrás humectación al instante, lo que hace que tus labios se sientan suaves. También dará a tus labios acondicionamiento y suavidad de forma inmediata.",
       aplicacion: "El Brillo Labial es una de las formas más versátiles de maquillaje de labios. Se puede usarlo sólo o en combinación con un Lápiz Labial. El Brillo Labial Mary Kay® NouriShine Plus™ con su acabado de súper brillo ayuda a los labios a lucir más firmes, gruesos y jóvenes.",
-      beneficios: "Transforma unos labios sencillos en unos labios gruesos, con mucha humectación y súper brillo. En un estudio independiente de una semana con consumidoras, 9 de 10 mujeres afirmaron que brinda un estímulo de humectación al instante, y además: 90% dijo que sentía que nutre la piel y tersa perfectamente los labios. 89% que los labios se sienten más sanos. 83% dijo que mejora la textura de la piel de los labios y ayuda a que luzcan más jóvenes. 80% dijo que brinda un brillo duradero.",
+      beneficios: "Transforma unos labios sencillos en unos labios gruesos, con mucha humectación y súper brillo. En un estudio independiente de una semana con consumidoras, 9 de 10 mujeres afirmaron que brinda un estímulo de humectación al instante, y además: 90%20 dijo que sentía que nutre la piel y tersa perfectamente los labios. 89%20 que los labios se sienten más sanos. 83%20 dijo que mejora la textura de la piel de los labios y ayuda a que luzcan más jóvenes. 80%20 dijo que brinda un brillo duradero.",
       image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/color/labios/brillos/generica.jpg"
     }
     ,
@@ -739,7 +739,7 @@ export class InfoService {
       id: 52,
       uso: "Labios",
       name: "Lápiz Delineador para Labios Mary Kay®",
-      message:"Lápiz%Delineador%para%Labios%Mary%Kay",
+      message:"Lápiz%20Delineador%20para%20Labios%20Mary%20Kay",
       type: "Labial",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -753,7 +753,7 @@ export class InfoService {
       id: 53,
       uso: "Labios",
       name: "Lápiz Labial Mate Efecto Polvo At Play",
-      message:"Lápiz%Labial%Mate%Efecto%Polvo%At%Play",
+      message:"Lápiz%20Labial%20Mate%20Efecto%20Polvo%20At%20Play",
       type: "Labial",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -767,7 +767,7 @@ export class InfoService {
       id: 54,
       uso: "Labios",
       name: "Brillo Labial Mary Kay Unlimited™ - Edición Limitada",
-      message:"Brillo%Labial%Mary%Kay%Unlimited%-%Edición%Limitada",
+      message:"Brillo%20Labial%20Mary%20Kay%20Unlimited%20-%20Edición%20Limitada",
       type: "Labial",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -781,7 +781,7 @@ export class InfoService {
       id: 55,
       uso: "Cara",
       name: "Corrector Perfecting Concealer",
-      message:"Corrector%Perfecting%Concealer",
+      message:"Corrector%20Perfecting%20Concealer",
       type: "Corrector",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -795,7 +795,7 @@ export class InfoService {
       id: 56,
       uso: "Cara",
       name: "Corrector Mary Kay",
-      message:"Corrector%Mary%Kay",
+      message:"Corrector%20Mary%20Kay",
       type: "Corrector",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -809,7 +809,7 @@ export class InfoService {
       id: 57,
       uso: "Cara",
       name: "Crema Correctora con Color y FPS 15 Mary Kay®",
-      message:"Crema%Correctora%con%Color%y%FPS%15%Mary%Kay",
+      message:"Crema%20Correctora%20con%20Color%20y%20FPS%2015%20Mary%20Kay",
       type: "Corrector",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -823,7 +823,7 @@ export class InfoService {
       id: 58,
       uso: "Cara",
       name: "Maquillaje en Crema con Acabado en Polvo Mary Kay®",
-      message:"Maquillaje%en%Crema%con%Acabado%en%Polvo%Mary%Kay",
+      message:"Maquillaje%20en%20Crema%20con%20Acabado%20en%20Polvo%20Mary%20Kay",
       type: "Base",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -837,7 +837,7 @@ export class InfoService {
       id: 59,
       uso: "Cara",
       name: "Base en Polvo Mineral Mary Kay®",
-      message:"Base%en%Polvo%Mineral%Mary%Kay",
+      message:"Base%20en%20Polvo%20Mineral%20Mary%20Kay",
       type: "Base",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -851,7 +851,7 @@ export class InfoService {
       id: 60,
       uso: "Cara",
       name: "Pre Base de Maquillaje con FPS 15 Mary Kay®",
-      message:"Pre%Base%de%Maquillaje%con%FPS%15%Mary%Kay",
+      message:"Pre%20Base%20de%20Maquillaje%20con%20FPS%2015%20Mary%20Kay",
       type: "Base",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -865,7 +865,7 @@ export class InfoService {
       id: 61,
       uso: "Cara",
       name: "Base de Maquillaje Mate TimeWise 3D",
-      message:"Base%de%Maquillaje%Mate%TimeWise%3D",
+      message:"Base%20de%20Maquillaje%20Mate%20TimeWise%203D",
       type: "Base",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -879,7 +879,7 @@ export class InfoService {
       id: 62,
       uso: "Cara",
       name: "Base de Maquillaje Luminosa TimeWise 3D",
-      message:"Base%de%Maquillaje%Luminosa%TimeWise%3D%",
+      message:"Base%20de%20Maquillaje%20Luminosa%20TimeWise%203D%20",
       type: "Base",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -893,7 +893,7 @@ export class InfoService {
       id: 63,
       uso: "Cara",
       name: "Base Líquida Mate Mary Kay At Play",
-      message:"Base%Líquida%Mate%Mary%Kay%At%Play",
+      message:"Base%20Líquida%20Mate%20Mary%20Kay%20At%20Play",
       type: "Base",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -907,7 +907,7 @@ export class InfoService {
       id: 64,
       uso: "Cara",
       name: "Crayón para Contorno del Rostro Mary Kay At Play",
-      message:"Crayón%para%Contorno%del%Rostro%Mary%Kay%At%Play",
+      message:"Crayón%20para%20Contorno%20del%20Rostro%20Mary%20Kay%20At%20Play",
       type: "Base",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -921,7 +921,7 @@ export class InfoService {
       id: 65,
       uso: "Cara",
       name: "Crayón Iluminador para el Rostro Mary Kay At Play",
-      message:"Crayón%Iluminador%para%el%Rostro%Mary%Kay%At%Play",
+      message:"Crayón%20Iluminador%20para%20el%20Rostro%20Mary%20Kay%20At%20Play",
       type: "Base",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -935,7 +935,7 @@ export class InfoService {
       id: 66,
       uso: "Cara",
       name: "Polvo Suelto Traslúcido Mary Kay®",
-      message:"Polvo%Suelto%Traslúcido%Mary%Kay",
+      message:"Polvo%20Suelto%20Traslúcido%20Mary%20Kay",
       type: "Base",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -949,7 +949,7 @@ export class InfoService {
       id: 67,
       uso: "Piel",
       name: "Crema Humectante Intensiva",
-      message:"Crema%Humectante%Intensiva",
+      message:"Crema%20Humectante%20Intensiva",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -963,7 +963,7 @@ export class InfoService {
       id: 68,
       uso: "Piel",
       name: "Crema de Noche Extraemoliente",
-      message:"Crema%de%Noche%Extraemoliente",
+      message:"Crema%20de%20Noche%20Extraemoliente",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -977,7 +977,7 @@ export class InfoService {
       id: 69,
       uso: "Piernas y pies",
       name: "Crema Energizante para Pies y Piernas Mary Kay®",
-      message:"Crema%Energizante%para%Pies%y%Piernas%Mary%Kay",
+      message:"Crema%20Energizante%20para%20Pies%20y%20Piernas%20Mary%20Kay",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -991,7 +991,7 @@ export class InfoService {
       id: 70,
       uso: "Ojos",
       name: "Desmaquillador de Ojos libre de Aceite",
-      message:"Demaquillador%de%Ojos%libre%de%Aceite",
+      message:"Demaquillador%20de%20Ojos%20libre%20de%20Aceite",
       type: "Desmaquillador",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1005,7 +1005,7 @@ export class InfoService {
       id: 71,
       uso: "Cara",
       name: "Gel Facial Hidratante Libre de Aceite",
-      message:"Gel%Facial%Hidratante%Libre%de%Aceite",
+      message:"Gel%20Facial%20Hidratante%20Libre%20de%20Aceite",
       type: "Gel",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1019,7 +1019,7 @@ export class InfoService {
       id: 72,
       uso: "Manos",
       name: "Set Manos de Seda Satin Hands® Té Blanco y Cítricos",
-      message:"Set%Manos%de%Seda%Satin%Hands%Té%Blanco%y%Cítricos",
+      message:"Set%20Manos%20de%20Seda%20Satin%20Hands%20Té%20Blanco%20y%20Cítricos",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1033,13 +1033,13 @@ export class InfoService {
       id: 73,
       uso: "Cara",
       name: "Mascarilla Facial de Limpieza Profunda con Carbón Clearproof®",
-      message:"Mascarilla%Facial%de%Limpieza%Profunda%con%Carbón%Clearproof",
+      message:"Mascarilla%20Facial%20de%20Limpieza%20Profunda%20con%20Carbón%20Clearproof",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "Mascarilla con carbón de triple acción que funciona como un imán para limpiar profundamente los poros.",
       aplicacion: "Aunque no parezca lógico, ensuciarse un poco puede ayudar realmente a limpiar la piel en profundidad. Esa es la magia del carbón activado. Modo de empleo: Aplicá una capa uniforme de la mascarilla sobre la piel limpia. Experimentá la transformación de la mascarilla mientras se seca y absorbe las impurezas de la piel, la cual va de una textura cremosa a un suave acabado mate. Dejá la mascarilla en la piel de 10 a 20 minutos. Utilizala de 2 a 3 veces por semana. Utilizá una mascarilla en todo tu rostro, o aplícala solo en la zona T, en donde comúnmente la piel del rostro tiene más grasitud.",
-      beneficios: "El carbón activo actúa como un imán para limpiar los poros. Fórmula clínicamente comprobada para remover el exceso de grasitud y reducir el brillo facial al instante. 79% de hombres y mujeres están de acuerdo*: *La piel luce más limpia* después de usarla. El extracto de romero y menta brindan un aroma fresco que despierta los sentidos. Disfrutá la sensación refrescante mientras aplicás la mascarilla en el rostro. *Basado en un estudio independiente de 21 días en el cual 166 hombres y mujeres con piel con tendencia al acné usaron el producto de dos a tres veces por semana.",
+      beneficios: "El carbón activo actúa como un imán para limpiar los poros. Fórmula clínicamente comprobada para remover el exceso de grasitud y reducir el brillo facial al instante. 79%20 de hombres y mujeres están de acuerdo*: *La piel luce más limpia* después de usarla. El extracto de romero y menta brindan un aroma fresco que despierta los sentidos. Disfrutá la sensación refrescante mientras aplicás la mascarilla en el rostro. *Basado en un estudio independiente de 21 días en el cual 166 hombres y mujeres con piel con tendencia al acné usaron el producto de dos a tres veces por semana.",
       image: "https://www.marykayarg.com.ar/mk/content/arg/conoce-tus-productos/imgs/especiales/producto10.jpg"
     }
     ,
@@ -1047,7 +1047,7 @@ export class InfoService {
       id: 74,
       uso: "Piel",
       name: "Crema Limpiadora Refrescante para el Cuerpo Satin Body®",
-      message:"Crema%Limpiadora%Refrescante%para%el%Cuerpo%Satin%Body",
+      message:"Crema%20Limpiadora%20Refrescante%20para%20el%20Cuerpo%20Satin%20Body",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1061,8 +1061,8 @@ export class InfoService {
       id: 75,
       uso: "Piel",
       name: "Loción Corporal Sedosa para el Cuerpo Satin Body®",
-      message:"Loción%Corporal%Sedosa%para%el%Cuerpo%Satin%Body",
-      type: "Loción",
+      message:"Loción%20Corporal%20Sedosa%20para%20el%20Cuerpo%20Satin%20Body",
+      type: "Locion",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "",
@@ -1075,7 +1075,7 @@ export class InfoService {
       id: 76,
       uso: "Piel",
       name: "Mascarilla Revitalizadora para el Cuerpo Satin Body®",
-      message:"Mascarilla%Revitalizadora%para%el%Cuerpo%Satin%Body",
+      message:"Mascarilla%20Revitalizadora%20para%20el%20Cuerpo%20Satin%20Body",
       type: "Mascarilla",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1089,7 +1089,7 @@ export class InfoService {
       id: 77,
       uso: "Labios",
       name: "Mascarilla Exfoliante para Labios con Karité Satin Lips®",
-      message:"Mascarilla%Exfoliante%para%Labios%con%Karité%Satin%Lips",
+      message:"Mascarilla%20Exfoliante%20para%20Labios%20con%20Karité%20Satin%20Lips",
       type: "Mascarilla",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1103,7 +1103,7 @@ export class InfoService {
       id: 78,
       uso: "Labios",
       name: "Crema Humectante para Labios con Karité Satin Lips®",
-      message:"Crema%Humectante%para%Labios%con%Karité%Satin%Lips",
+      message:"Crema%20Humectante%20para%20Labios%20con%20Karité%20Satin%20Lips",
       type: "Crema",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1117,7 +1117,7 @@ export class InfoService {
       id: 79,
       uso: "Labios",
       name: "Set Labios de Seda Satin Lips®",
-      message:"Set%Labios%de%Seda%Satin%Lips",
+      message:"Set%20Labios%20de%20Seda%20Satin%20Lips",
       type: "Mascarilla",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1131,7 +1131,7 @@ export class InfoService {
       id: 80,
       uso: "Cara",
       name: "Cepillo Limpiador Skinvigorate Sonic",
-      message:"Cepillo%Limpiador%Skinvigorate%Sonic",
+      message:"Cepillo%20Limpiador%20Skinvigorate%20Sonic",
       type: "Cepillo",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1143,9 +1143,9 @@ export class InfoService {
     ,
     {
       id: 81,
-      uso: "Cepillo",
+      uso: "Cara",
       name: "Cabezal Cepillo Limpiador Facial Skinvigorate Sonic™ (x2)",
-      message:"Cabezal%Cepillo%Limpiador%Facial%Skinvigorate%Sonic",
+      message:"Cabezal%20Cepillo%20Limpiador%20Facial%20Skinvigorate%20Sonic",
       type: "Cepillo",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1159,7 +1159,7 @@ export class InfoService {
       id: 82,
       uso: "Cara",
       name: "Cabezal de Masaje Facial Skinvigorate Sonic",
-      message:"Cabezal%de%Masaje%Facial%Skinvigorate%Sonic",
+      message:"Cabezal%20de%20Masaje%20Facial%20Skinvigorate%20Sonic",
       type: "Masaje",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1173,7 +1173,7 @@ export class InfoService {
       id: 83,
       uso: "Cuerpo",
       name: "Protector solar FPS 30",
-      message:"Protector%solar%FPS%30",
+      message:"Protector%20solar%20FPS%2030",
       type: "ProtectorSolar",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1187,8 +1187,8 @@ export class InfoService {
       id: 84,
       uso: "Manos",
       name: "Jabón Líquido para Manos con Karité Satin Hands® de Edición Limitada.",
-      message:"Jabón%Líquido%para%Manos%con%Karité%Satin%Hands%de%Edición%Limitada",
-      type: "Jabón",
+      message:"Jabón%20Líquido%20para%20Manos%20con%20Karité%20Satin%20Hands%20de%20Edición%20Limitada",
+      type: "Jabon",
       price: 1000,
       link: "https://www.facebook.com/",
       description: "¡Lavate las manos sin resecarlas! Consentí tus manos con el nuevo Jabón para Manos con Karité Satin Hands, mezclado con hidratante y nutritiva manteca de karité. Las fans en todas partes adoran el Set Manos de Seda®, y ahora pueden consentir sus manos con el Jabón para Manos con Karité Satin Hands",
@@ -1201,7 +1201,7 @@ export class InfoService {
       id: 85,
       uso: "Piel",
       name: "¡NUEVO! Spray Corporal Friday Feels Mary Kay At Play™ Edición Limitada",
-      message:"Spray%Corporal%Friday%Feels%Mary%Kay%At%Play%Edición%Limitada",
+      message:"Spray%20Corporal%20Friday%20Feels%20Mary%20Kay%20At%20Play%20Edición%20Limitada",
       type: "Spray",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1215,7 +1215,7 @@ export class InfoService {
       id: 86,
       uso: "Piel",
       name: "¡NUEVO! Spray Corporal Weekend Vibes Mary Kay At Play™ Edición Limitada",
-      message:"Spray%Corporal%Weekend%Vibes%Mary%Kay%At%Play%Edición%Limitada",
+      message:"Spray%20Corporal%20Weekend%20Vibes%20Mary%20Kay%20At%20Play%20Edición%20Limitada",
       type: "Locion",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1229,7 +1229,7 @@ export class InfoService {
       id: 87,
       uso: "Piel",
       name: "¡NUEVA! Loción Corporal Friday Feels Mary Kay At Play™ Edición Limitada",
-      message:"Loción%Corporal%Friday%Feels%Mary%Kay%At%Play%Edición%Limitada",
+      message:"Loción%20Corporal%20Friday%20Feels%20Mary%20Kay%20At%20Play%20Edición%20Limitada",
       type: "Locion",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1243,7 +1243,7 @@ export class InfoService {
       id: 88,
       uso: "Piel",
       name: "¡NUEVO! Spray Corporal Weekend Vibes Mary Kay At Play™ Edición Limitada",
-      message:"Spray%Corporal%Weekend%Vibes%Mary%Kay%At%Play%Edición%Limitada",
+      message:"Spray%20Corporal%20Weekend%20Vibes%20Mary%20Kay%20At%20Play%20Edición%20Limitada",
       type: "Spray",
       price: 1000,
       link: "https://www.facebook.com/",
@@ -1257,7 +1257,7 @@ export class InfoService {
       id: 89,
       uso: "Piel",
       name: "Mary Kay® Belara Eau de Parfum",
-      message:"Mary%Kay%Belara%Eau%de%Parfum",
+      message:"Mary%20Kay%20Belara%20Eau%20de%20Parfum",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1272,7 +1272,7 @@ export class InfoService {
       id: 90,
       uso: "Piel",
       name: "True Passion L’Eau® Eau de Toilettea",
-      message:"True%Passion%L%Eau%Eau%de%Toilette",
+      message:"True%20Passion%20L%20Eau%20Eau%20de%20Toilette",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1287,7 +1287,7 @@ export class InfoService {
       id: 91,
       uso: "Piel",
       name: "True Passion™ Eau de Toilette",
-      message:"True%Passion%Eau%de%Toilette",
+      message:"True%20Passion%20Eau%20de%20Toilette",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1302,7 +1302,7 @@ export class InfoService {
       id: 92,
       uso: "Piel",
       name: "True Passion Noir™ Eau de Toilette",
-      message:"True%Passion%Noir%Eau%de%Toilette",
+      message:"True%20Passion%20Noir%20Eau%20de%20Toilette",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1317,7 +1317,7 @@ export class InfoService {
       id: 93,
       uso: "Piel",
       name: "Love Fearlessly ® Eau de Parfum",
-      message:"Love%Fearlessly%Eau%de%Parfum",
+      message:"Love%20Fearlessly%20Eau%20de%20Parfum",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1332,7 +1332,7 @@ export class InfoService {
       id: 94,
       uso: "Piel",
       name: "Dream Fearlessly ® Eau de Parfum",
-      message:"Dream%Fearlessly%Eau%de%Parfum",
+      message:"Dream%20Fearlessly%20Eau%20de%20Parfum",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1347,7 +1347,7 @@ export class InfoService {
       id: 95,
       uso: "Piel",
       name: "Live Fearlessly ® Eau de Parfum",
-      message:"Live%Fearlessly%Eau%de%Parfum",
+      message:"Live%20Fearlessly%20Eau%20de%20Parfum",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1362,7 +1362,7 @@ export class InfoService {
       id: 96,
       uso: "Piel",
       name: "Wish® Eau de Toilette",
-      message:"Wish%Eau%de%Toilette",
+      message:"Wish%20Eau%20de%20Toilette",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1377,7 +1377,7 @@ export class InfoService {
       id: 97,
       uso: "Piel",
       name: "Hello Brilliant® Eau de Toilette",
-      message:"Hello%Brilliant%Eau%de%Toilette",
+      message:"Hello%20Brilliant%20Eau%20de%20Toilette",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1392,7 +1392,7 @@ export class InfoService {
       id: 98,
       uso: "Piel",
       name: "Forever Diamonds® Eau de Parfum",
-      message:"Forever%Diamonds%Eau%de%Parfum",
+      message:"Forever%20Diamonds%20Eau%20de%20Parfum",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1407,7 +1407,7 @@ export class InfoService {
       id: 99,
       uso: "Piel",
       name: "Pink Diamonds",
-      message:"Pink%Diamonds",
+      message:"Pink%20Diamonds",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1422,7 +1422,7 @@ export class InfoService {
       id: 100,
       uso: "Piel",
       name: "Pink Diamonds Intense",
-      message:"Pink%Diamonds%Intense",
+      message:"Pink%20Diamonds%20Intense",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1437,7 +1437,7 @@ export class InfoService {
       id: 101,
       uso: "Piel",
       name: "Fragancia Modern Charm® Eau de Parfum 50 ml",
-      message:"Fragancia%Modern%Charm%Eau%de%Parfum%50%ml",
+      message:"Fragancia%20Modern%20Charm%20Eau%20de%20Parfum%2050%20ml",
       type: "Fragancia",
       to: "Fragancia femenina",
       price: 1000,
@@ -1452,7 +1452,7 @@ export class InfoService {
       id: 102,
       uso: "Piel",
       name: "High Intensity",
-      message:"High%Intensity",
+      message:"High%20Intensity",
       type: "Fragancia",
       to: "Fragancia masculina",
       price: 1000,
@@ -1467,7 +1467,7 @@ export class InfoService {
       id: 103,
       uso: "Piel",
       name: "Magnetic Passion™ Eau de Parfum",
-      message:"Magnetic%Passion%Eau%de%Parfum",
+      message:"Magnetic%20Passion%20Eau%20de%20Parfum",
       type: "Fragancia",
       to: "Fragancia masculina",
       price: 1000,
@@ -1482,7 +1482,7 @@ export class InfoService {
       id: 104,
       uso: "Piel",
       name: "Upbeat para Él™ Eau de Toilette",
-      message:"Upbeat%para%Él%Eau%de%Toilette",
+      message:"Upbeat%20para%20Él%20Eau%20de%20Toilette",
       type: "Fragancia",
       to: "Fragancia masculina",
       price: 1000,
@@ -1497,7 +1497,7 @@ export class InfoService {
       id: 105,
       uso: "Piel",
       name: "Upscale",
-      message:"%",
+      message:"%20",
       type: "Fragancia",
       to: "Fragancia masculina",
       price: 1000,
@@ -1512,7 +1512,7 @@ export class InfoService {
       id: 106,
       uso: "Piel",
       name: "Upscale Gentleman",
-      message:"Upscale%Gentleman",
+      message:"Upscale%20Gentleman",
       type: "Fragancia",
       to: "Fragancia masculina",
       price: 1000,
@@ -1527,7 +1527,7 @@ export class InfoService {
       id: 107,
       uso: "Piel",
       name: "Magnetic Passion Edge ™ Eau de Parfum",
-      message:"Magnetic%Passion%Edge%Eau%de%Parfum",
+      message:"Magnetic%20Passion%20Edge%20Eau%20de%20Parfum",
       type: "Fragancia",
       to: "Fragancia masculina",
       price: 1000,
@@ -1542,7 +1542,7 @@ export class InfoService {
       id: 108,
       uso: "Piel",
       name: "Authentic Hero® Eau de Toilette 100 ml",
-      message:"Authentic%Hero%Eau%de%Toilette%100%ml",
+      message:"Authentic%20Hero%20Eau%20de%20Toilette%20100%20ml",
       type: "Fragancia",
       to: "Fragancia masculina",
       price: 1000,
@@ -1587,15 +1587,149 @@ export class InfoService {
     }
     return cremasArr;
   }
-  getPinturaLabios() {
-    const pinturaLabiosArr: any[] = [];
-    const termino = 'Pintalabios';
+  getGel() {
+    const gelArr: any[] = [];
+    const termino = 'Gel';
     for (const producto of this.items) {
       const type = producto.type;
       if ((type.indexOf(termino)) >= 0) {
-        pinturaLabiosArr.push(producto);
+        gelArr.push(producto);
       }
     }
-    return pinturaLabiosArr;
+    return gelArr;
   }
+  getLocion() {
+    const locionArr: any[] = [];
+    const termino = 'Locion';
+    for (const producto of this.items) {
+      const type = producto.type;
+      if ((type.indexOf(termino)) >= 0) {
+        locionArr.push(producto);
+      }
+    }
+    return locionArr;
+  }
+  getSombras() {
+    const sombrasArr: any[] = [];
+    const termino = 'Sombra';
+    for (const producto of this.items) {
+      const type = producto.type;
+      if ((type.indexOf(termino)) >= 0) {
+        sombrasArr.push(producto);
+      }
+    }
+    return sombrasArr;
+  }
+  getBrochas() {
+    const brochasArr: any[] = [];
+    const termino = 'Brocha';
+    for (const producto of this.items) {
+      const type = producto.type;
+      if ((type.indexOf(termino)) >= 0) {
+        brochasArr.push(producto);
+      }
+    }
+    return brochasArr;
+  }
+  getRubores() {
+    const ruborArr: any[] = [];
+    const termino = 'rubor';
+    for (const producto of this.items) {
+
+      const type = producto.type.toLowerCase();
+      if ((type.indexOf(termino)) >= 0) {
+        ruborArr.push(producto);
+      }
+    }
+    return ruborArr;
+  }
+  getCorrectores() {
+    const correctoresArr: any[] = [];
+    const termino = 'Corrector';
+    for (const producto of this.items) {
+      const type = producto.type;
+      if ((type.indexOf(termino)) >= 0) {
+        correctoresArr.push(producto);
+      }
+    }
+    return correctoresArr;
+  }
+  getDelineadores() {
+    const delineadoresArr: any[] = [];
+    const termino = 'Delineador';
+    for (const producto of this.items) {
+      const type = producto.type;
+      if ((type.indexOf(termino)) >= 0) {
+        delineadoresArr.push(producto);
+      }
+    }
+    return delineadoresArr;
+  }
+  getLabiales() {
+    const labialesArr: any[] = [];
+    const termino = 'Labial';
+    for (const producto of this.items) {
+      const type = producto.type;
+      if ((type.indexOf(termino)) >= 0) {
+        labialesArr.push(producto);
+      }
+    }
+    return labialesArr;
+  }
+  getBases() {
+    const basesArr: any[] = [];
+    const termino = 'Base';
+    for (const producto of this.items) {
+      const type = producto.type;
+      if ((type.indexOf(termino)) >= 0) {
+        basesArr.push(producto);
+      }
+    }
+    return basesArr;
+  }
+  getDesmaquilladores() {
+    const desmaquilladoresArr: any[] = [];
+    const termino = 'Desmaquillador';
+    for (const producto of this.items) {
+      const type = producto.type;
+      if ((type.indexOf(termino)) >= 0) {
+        desmaquilladoresArr.push(producto);
+      }
+    }
+    return desmaquilladoresArr;
+  }
+  getSprays() {
+    const spraysArr: any[] = [];
+    const termino = 'Spray';
+    for (const producto of this.items) {
+      const type = producto.type;
+      if ((type.indexOf(termino)) >= 0) {
+        spraysArr.push(producto);
+      }
+    }
+    return spraysArr;
+  }
+  getFragancias() {
+    const fraganciasArr: any[] = [];
+    const termino = 'Fragancia';
+    for (const producto of this.items) {
+      const type = producto.type;
+      if ((type.indexOf(termino)) >= 0) {
+        fraganciasArr.push(producto);
+      }
+    }
+    return fraganciasArr;
+  }
+  getMascarillas() {
+    const mascarillassArr: any[] = [];
+    const termino = 'Mascarilla';
+    for (const producto of this.items) {
+      const type = producto.type;
+      if ((type.indexOf(termino)) >= 0) {
+        mascarillassArr.push(producto);
+      }
+    }
+    return mascarillassArr;
+  }
+
 }

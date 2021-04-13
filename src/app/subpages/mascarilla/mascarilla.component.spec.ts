@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { PinturaLabiosComponent } from './pintura-labios.component';
+import { MascarillaComponent } from './mascarilla.component';
 
-describe('PinturaLabiosComponent', () => {
-  let component: PinturaLabiosComponent;
-  let fixture: ComponentFixture<PinturaLabiosComponent>;
+describe('MascarillaComponent', () => {
+  let component: MascarillaComponent;
+  let fixture: ComponentFixture<MascarillaComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ PinturaLabiosComponent ]
+      declarations: [ MascarillaComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(PinturaLabiosComponent);
+    fixture = TestBed.createComponent(MascarillaComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
