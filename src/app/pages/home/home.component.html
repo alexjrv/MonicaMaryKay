@@ -1,21 +1,26 @@
+
+
 <div class="about-block-content text-center">
   <div class="border-add"></div>
-  <h4>¿Quién soy?</h4>
+  <h4 style="font-weight: 800;">¿Quién soy?</h4>
   <p>Mi nombre es Mónica Aguero, soy consultora de Mary Kay de Zona Norte</p>
   <p>Me encuentro en Tigre. Hacemos envío, puntos de encuentro y aceptamos efectivo o Mercado Pago</p>
   <p>Contactanos via WhatsApp</p>
 </div>
-<div class="content_top container">
+<!-- Mobile -->
+
+<div class="d-lg-none content_top container">
   <h3 class="m_1">Nuestros productos</h3>
-  <h5 class="text-center">A través de nuestro buscador podrás encontrar un producto por nombre, para qué parte</h5>
-  <h5 class="text-center"> del cuerpo, o tipo.</h5>
-  <div class="container text-center p-4">
+  <h5 class="text-center">A través de nuestro buscador podras buscar por nombre del producto,</h5>
+  <h5 class="text-center">sección del cuerpo en la que se aplica y por categorías</h5>
+  <h5 class="text-center">generales (por ejemplo: labiales, cremas, etc.)</h5>
+  <div class="container col-md-12 text-center p-4">
     <div class="box_1 text-center">
       <div id="inicio" class="col-md-12 text-center">
 
-        <div class="col-11 text-center">
-          <input type="text" #term placeholder="Ingrese el nombre o tipo de producto" (keyup)="buscar(term.value)"
-            style="width:95%;margin-bottom: 15px;">
+        <div class="col-md-12 text-center">
+          <input type="text" #term placeholder="Ingrese producto" (keyup)="buscar(term.value)"
+            style="width:100%;margin-bottom: 15px;">
         </div>
         <div class="loading text-center" *ngIf="loading">
           <div><i class="fas fa-spinner fa-spin" style="font-size: 60px;"></i></div>
@@ -23,7 +28,68 @@
             Aguarde por favor
           </div>
         </div>
-        <div class="container text-center">
+        <div class="container text-center mr-5">
+          <div *ngFor="let item of resultados | paginate : {
+            itemsPerPage: tableSize,
+            currentPage: page,
+            totalItems: count
+          };
+    let i = index" [class.active]="i == currentIndex " class="col_1_of_3 simpleCart_shelfItem "
+            style="margin-bottom:20px;width:260px">
+            <div class="shop-holder">
+              <div class="product-img">
+                <a (click)="verProducto(item.id)">
+                  <img [src]="item.image" class="img-product" alt="item4"
+                    style="width:100%; background-color:white !important"> </a>
+                <a href="https://wa.me/541173661750?text=Hola,%20Mónica%20quería%20consultarte%20sobre%20{{item.message}}"
+                  style="background-color: green;"><i class="fab fa-whatsapp" style="font-size: 18px;"></i></a>
+
+              </div>
+            </div>
+            <div class="shop-content" style="height: 80px;padding-bottom: 10px !important;">
+              <div *ngIf="item.type!='Fragancia'"><a rel="tag">{{item.type}}</a></div>
+              <div *ngIf="item.type=='Fragancia'"><a rel="tag">{{item.to}}</a></div>
+              <h3><a>{{item.name}}</a></h3>
+              <!-- <span class="amount item_price">{{item.price}}</span> -->
+            </div>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+
+        <div *ngIf="resultados.length >9" class="mt-4 d-flex justify-content-center">
+          <pagination-controls previousLabel="Anterior" nextLabel="Siguiente" (pageChange)="onTableDataChange($event)">
+          </pagination-controls>
+
+        </div>
+      </div>
+
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Desktop -->
+
+<div class="d-none d-lg-block content_top container">
+  <h3 class="m_1">Nuestros productos</h3>
+  <h5 class="text-center">A través de nuestro buscador podras buscar por nombre del producto,</h5>
+  <h5 class="text-center">sección del cuerpo en la que se aplica y por categorías</h5>
+  <h5 class="text-center">generales (por ejemplo: labiales, cremas, etc.)</h5>
+  <div class="container col-md-12 text-center p-4">
+    <div class="box_1 text-center">
+      <div id="inicio" class="col-md-12 text-center">
+
+        <div class="col-md-11 text-center">
+          <input type="text" #term placeholder="Ingrese el nombre o tipo de producto" (keyup)="buscar(term.value)"
+            style="width:100%;margin-bottom: 15px;">
+        </div>
+        <div class="loading text-center" *ngIf="loading">
+          <div><i class="fas fa-spinner fa-spin" style="font-size: 60px;"></i></div>
+          <div style="color: black;">
+            Aguarde por favor
+          </div>
+        </div>
+        <div class="container text-center ml-5">
           <div *ngFor="let item of resultados | paginate : {
             itemsPerPage: tableSize,
             currentPage: page,
