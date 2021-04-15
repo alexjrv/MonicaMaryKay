@@ -52,6 +52,7 @@ this.buscar("");
     this.obtenerProductos();
 
   }
+
 buscar(termino:string){
   this.loading = true;
  this.resultados = this.infoService.buscarProductos(termino);
