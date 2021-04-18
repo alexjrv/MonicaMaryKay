@@ -13,7 +13,7 @@
 
 <div class="content_top container">
   <h3 class="m_1">Nuestros productos</h3>
-  <h5 class="text-center">A través de nuestro buscador podras buscar por nombre del producto,</h5>
+  <h5 class="text-center">A través de nuestro buscador podras encontrar por nombre del producto,</h5>
   <h5 class="text-center">sección del cuerpo en la que se aplica y por categorías</h5>
   <h5 class="text-center">generales (por ejemplo: labiales, cremas, etc.)</h5>
   <div class="container col-md-12 text-center p-4">
@@ -21,7 +21,7 @@
       <div id="inicio" class="col-md-12 text-center">
 
         <div class="col-md-11 text-center">
-          <input type="text" #term placeholder="Ingrese el nombre o tipo de producto" (keyup)="buscar(term.value)"
+          <input type="text" #term placeholder="Ingrese producto" (keyup)="buscar(term.value)"
             style="width:100%;margin-bottom: 15px;">
         </div>
         <div class="loading text-center" *ngIf="loading">
